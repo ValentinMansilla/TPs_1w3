@@ -33,6 +33,16 @@ namespace FarmaciaPantallas
 
         private void btnConsultar_Click(object sender, EventArgs e)
         {
+            if (string.IsNullOrEmpty(txtMes1.Text) || !int.TryParse(txtMes1.Text, out _))
+            {
+                MessageBox.Show("Seleccione un valor válido", "Control", MessageBoxButtons.OK, MessageBoxIcon.Exclamation);
+                return;
+            }
+            if (string.IsNullOrEmpty(txtMes2.Text) || !int.TryParse(txtMes2.Text, out _))
+            {
+                MessageBox.Show("Seleccione un valor válido", "Control", MessageBoxButtons.OK, MessageBoxIcon.Exclamation);
+                return;
+            }
             dgvClienteVista.Rows.Clear();
             List<Parametro> lstP = new List<Parametro>();
             lstP.Add(new Parametro("@mes1", int.Parse(txtMes1.Text)));
