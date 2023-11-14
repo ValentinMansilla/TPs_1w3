@@ -1,8 +1,18 @@
 {
   "version": 2,
-  "dgSpecHash": "gHwh2Qw2d58+rdK1gz0fT3gBgR6xWzBvP8ZizV/mSnb39VXvnHLFK9+Sv/X/yw5FQJykRz2e3YQUn1reZC5s4A==",
+  "dgSpecHash": "8lRCI5pLw0WrfDKPYONho6zyCRsQPEcJMLFgaMXin4DFerI8TzP732u6AF7m9hPhVm7PsIvrBkU3489ciHKW3Q==",
   "success": true,
-  "projectFilePath": "C:\\Users\\valen\\Desktop\\Trabajo Practico\\TPs_1w3\\Farmacia\\FarmaciaPantallas\\FarmaciaPantallas.csproj",
-  "expectedPackageFiles": [],
+  "projectFilePath": "C:\\Users\\valen\\Desktop\\Trabajo Practico\\TPs_1w3\\TPs_1w3\\Farmacia\\FarmaciaPantallas\\FarmaciaPantallas.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\valen\\.nuget\\packages\\microsoft.netcore.platforms\\3.1.0\\microsoft.netcore.platforms.3.1.0.nupkg.sha512",
+    "C:\\Users\\valen\\.nuget\\packages\\microsoft.win32.registry\\4.7.0\\microsoft.win32.registry.4.7.0.nupkg.sha512",
+    "C:\\Users\\valen\\.nuget\\packages\\runtime.native.system.data.sqlclient.sni\\4.7.0\\runtime.native.system.data.sqlclient.sni.4.7.0.nupkg.sha512",
+    "C:\\Users\\valen\\.nuget\\packages\\runtime.win-arm64.runtime.native.system.data.sqlclient.sni\\4.4.0\\runtime.win-arm64.runtime.native.system.data.sqlclient.sni.4.4.0.nupkg.sha512",
+    "C:\\Users\\valen\\.nuget\\packages\\runtime.win-x64.runtime.native.system.data.sqlclient.sni\\4.4.0\\runtime.win-x64.runtime.native.system.data.sqlclient.sni.4.4.0.nupkg.sha512",
+    "C:\\Users\\valen\\.nuget\\packages\\runtime.win-x86.runtime.native.system.data.sqlclient.sni\\4.4.0\\runtime.win-x86.runtime.native.system.data.sqlclient.sni.4.4.0.nupkg.sha512",
+    "C:\\Users\\valen\\.nuget\\packages\\system.data.sqlclient\\4.8.5\\system.data.sqlclient.4.8.5.nupkg.sha512",
+    "C:\\Users\\valen\\.nuget\\packages\\system.security.accesscontrol\\4.7.0\\system.security.accesscontrol.4.7.0.nupkg.sha512",
+    "C:\\Users\\valen\\.nuget\\packages\\system.security.principal.windows\\4.7.0\\system.security.principal.windows.4.7.0.nupkg.sha512"
+  ],
   "logs": []
 }

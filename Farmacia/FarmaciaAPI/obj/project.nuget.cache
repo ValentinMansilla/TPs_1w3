@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "1bZT4rx9kTSUg0D8L6CuXRS8IbXZznBuuTUVSzzCHOQBKTzASonmsfmxrVK1Be1yXvZByxFOLOxMJgLd8XX/3A==",
+  "dgSpecHash": "swaaF9IHpppyfeFJCXnSyeky44qmrCXAkbanKl62ZA9F1/ba/QQvwwbhkbIcqDM6Cr2Dt9STdr/WVr5sw07csg==",
   "success": true,
-  "projectFilePath": "C:\\Users\\valen\\Desktop\\Trabajo Practico\\TPs_1w3\\Farmacia\\FarmaciaAPI\\FarmaciaAPI.csproj",
+  "projectFilePath": "C:\\Users\\valen\\Desktop\\Trabajo Practico\\TPs_1w3\\TPs_1w3\\Farmacia\\FarmaciaAPI\\FarmaciaAPI.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\valen\\.nuget\\packages\\microsoft.extensions.apidescription.server\\6.0.5\\microsoft.extensions.apidescription.server.6.0.5.nupkg.sha512",
     "C:\\Users\\valen\\.nuget\\packages\\microsoft.openapi\\1.2.3\\microsoft.openapi.1.2.3.nupkg.sha512",

@@ -1,17 +1,32 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\valen\\Desktop\\Trabajo Practico\\TPs_1w3\\Farmacia\\FarmaciaPantallas\\FarmaciaPantallas.csproj": {}
+    "C:\\Users\\valen\\Desktop\\Trabajo Practico\\TPs_1w3\\TPs_1w3\\Farmacia\\FarmaciaPantallas\\FarmaciaPantallas.csproj": {}
   },
   "projects": {
-    "C:\\Users\\valen\\Desktop\\Trabajo Practico\\TPs_1w3\\Farmacia\\FarmaciaPantallas\\FarmaciaPantallas.csproj": {
+    "C:\\Users\\valen\\Desktop\\Trabajo Practico\\TPs_1w3\\TPs_1w3\\Farmacia\\Entidades\\Entidades.csproj": {
+      "restore": {
+        "projectUniqueName": "C:\\Users\\valen\\Desktop\\Trabajo Practico\\TPs_1w3\\TPs_1w3\\Farmacia\\Entidades\\Entidades.csproj",
+        "projectName": "Entidades",
+        "projectPath": "C:\\Users\\valen\\Desktop\\Trabajo Practico\\TPs_1w3\\TPs_1w3\\Farmacia\\Entidades\\Entidades.csproj",
+        "frameworks": {
+          "net472": {
+            "projectReferences": {}
+          }
+        }
+      },
+      "frameworks": {
+        "net472": {}
+      }
+    },
+    "C:\\Users\\valen\\Desktop\\Trabajo Practico\\TPs_1w3\\TPs_1w3\\Farmacia\\FarmaciaPantallas\\FarmaciaPantallas.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\valen\\Desktop\\Trabajo Practico\\TPs_1w3\\Farmacia\\FarmaciaPantallas\\FarmaciaPantallas.csproj",
+        "projectUniqueName": "C:\\Users\\valen\\Desktop\\Trabajo Practico\\TPs_1w3\\TPs_1w3\\Farmacia\\FarmaciaPantallas\\FarmaciaPantallas.csproj",
         "projectName": "FarmaciaPantallas",
-        "projectPath": "C:\\Users\\valen\\Desktop\\Trabajo Practico\\TPs_1w3\\Farmacia\\FarmaciaPantallas\\FarmaciaPantallas.csproj",
+        "projectPath": "C:\\Users\\valen\\Desktop\\Trabajo Practico\\TPs_1w3\\TPs_1w3\\Farmacia\\FarmaciaPantallas\\FarmaciaPantallas.csproj",
         "packagesPath": "C:\\Users\\valen\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\valen\\Desktop\\Trabajo Practico\\TPs_1w3\\Farmacia\\FarmaciaPantallas\\obj\\",
+        "outputPath": "C:\\Users\\valen\\Desktop\\Trabajo Practico\\TPs_1w3\\TPs_1w3\\Farmacia\\FarmaciaPantallas\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\valen\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -27,7 +42,11 @@
         "frameworks": {
           "net6.0-windows7.0": {
             "targetAlias": "net6.0-windows",
-            "projectReferences": {}
+            "projectReferences": {
+              "C:\\Users\\valen\\Desktop\\Trabajo Practico\\TPs_1w3\\TPs_1w3\\Farmacia\\Entidades\\Entidades.csproj": {
+                "projectPath": "C:\\Users\\valen\\Desktop\\Trabajo Practico\\TPs_1w3\\TPs_1w3\\Farmacia\\Entidades\\Entidades.csproj"
+              }
+            }
           }
         },
         "warningProperties": {
@@ -39,6 +58,12 @@
       "frameworks": {
         "net6.0-windows7.0": {
           "targetAlias": "net6.0-windows",
+          "dependencies": {
+            "System.Data.SqlClient": {
+              "target": "Package",
+              "version": "[4.8.5, )"
+            }
+          },
           "imports": [
             "net461",
             "net462",

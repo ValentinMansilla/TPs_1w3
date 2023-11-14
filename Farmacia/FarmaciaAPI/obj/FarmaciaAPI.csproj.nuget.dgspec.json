@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\valen\\Desktop\\Trabajo Practico\\TPs_1w3\\Farmacia\\FarmaciaAPI\\FarmaciaAPI.csproj": {}
+    "C:\\Users\\valen\\Desktop\\Trabajo Practico\\TPs_1w3\\TPs_1w3\\Farmacia\\FarmaciaAPI\\FarmaciaAPI.csproj": {}
   },
   "projects": {
-    "C:\\Users\\valen\\Desktop\\Trabajo Practico\\TPs_1w3\\Farmacia\\FarmaciaAPI\\FarmaciaAPI.csproj": {
+    "C:\\Users\\valen\\Desktop\\Trabajo Practico\\TPs_1w3\\TPs_1w3\\Farmacia\\FarmaciaAPI\\FarmaciaAPI.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\valen\\Desktop\\Trabajo Practico\\TPs_1w3\\Farmacia\\FarmaciaAPI\\FarmaciaAPI.csproj",
+        "projectUniqueName": "C:\\Users\\valen\\Desktop\\Trabajo Practico\\TPs_1w3\\TPs_1w3\\Farmacia\\FarmaciaAPI\\FarmaciaAPI.csproj",
         "projectName": "FarmaciaAPI",
-        "projectPath": "C:\\Users\\valen\\Desktop\\Trabajo Practico\\TPs_1w3\\Farmacia\\FarmaciaAPI\\FarmaciaAPI.csproj",
+        "projectPath": "C:\\Users\\valen\\Desktop\\Trabajo Practico\\TPs_1w3\\TPs_1w3\\Farmacia\\FarmaciaAPI\\FarmaciaAPI.csproj",
         "packagesPath": "C:\\Users\\valen\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\valen\\Desktop\\Trabajo Practico\\TPs_1w3\\Farmacia\\FarmaciaAPI\\obj\\",
+        "outputPath": "C:\\Users\\valen\\Desktop\\Trabajo Practico\\TPs_1w3\\TPs_1w3\\Farmacia\\FarmaciaAPI\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\valen\\AppData\\Roaming\\NuGet\\NuGet.Config",
