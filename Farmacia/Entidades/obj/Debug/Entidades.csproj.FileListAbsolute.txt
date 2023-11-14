@@ -1,0 +1,6 @@
+C:\Users\gonza\Downloads\TPs_1w3-main\TPs_1w3-main\Farmacia\Entidades\bin\Debug\Entidades.dll
+C:\Users\gonza\Downloads\TPs_1w3-main\TPs_1w3-main\Farmacia\Entidades\bin\Debug\Entidades.pdb
+C:\Users\gonza\Downloads\TPs_1w3-main\TPs_1w3-main\Farmacia\Entidades\obj\Debug\Entidades.csproj.AssemblyReference.cache
+C:\Users\gonza\Downloads\TPs_1w3-main\TPs_1w3-main\Farmacia\Entidades\obj\Debug\Entidades.csproj.CoreCompileInputs.cache
+C:\Users\gonza\Downloads\TPs_1w3-main\TPs_1w3-main\Farmacia\Entidades\obj\Debug\Entidades.dll
+C:\Users\gonza\Downloads\TPs_1w3-main\TPs_1w3-main\Farmacia\Entidades\obj\Debug\Entidades.pdb
