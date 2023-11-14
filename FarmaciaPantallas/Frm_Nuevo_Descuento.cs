@@ -14,13 +14,13 @@ namespace FarmaciaPantallas
 {
     public partial class Frm_Nuevo_Descuento : Form
     {
-        private Descuentos nuevoDescuento;
+        private Descuento nuevoDescuento;
         private HelperDesc helper;
         public Frm_Nuevo_Descuento()
         {
 
             InitializeComponent();
-            nuevoDescuento = new Descuentos();
+            nuevoDescuento = new Descuento();
             helper = new HelperDesc();
         }
 
@@ -74,7 +74,7 @@ namespace FarmaciaPantallas
             Localidad localidad = (Localidad)cboLocalidad.SelectedItem;
             Suministro suministro = (Suministro)cboSuministro.SelectedItem;
             int porcentaje = int.Parse(txtNDescuento.Text.ToString());
-            Descuentos descuento = new Descuentos(obra, localidad, suministro, porcentaje);
+            Descuento descuento = new Descuento(obra, localidad, suministro, porcentaje);
             int precio = helper.ActualizarDesc(descuento);
             MessageBox.Show("Nuevo descuento aplicado al producto", "Confirmacion", MessageBoxButtons.OK, MessageBoxIcon.Information);
             MessageBox.Show("Precio actual de " + cboSuministro.Text + " es: $" + precio.ToString(), "Precio actual", MessageBoxButtons.OK, MessageBoxIcon.Information);
