@@ -14,11 +14,9 @@ namespace FarmaciaPantallas
 {
     public partial class frmClientes : Form
     {
-        private Factura factura;
         public frmClientes()
         {
             InitializeComponent();
-            factura = new Factura();
         }
 
         private void label1_Click(object sender, EventArgs e)
