@@ -12,7 +12,7 @@ namespace FarmaciaPantallas.Acceso_Datos
     public class HelperDesc
     {
         private SqlConnection conexion;
-        private string cadenaConexion = @"Data Source=DESKTOP-1PEEIAH\SQLEXPRESS;Initial Catalog=farmacia_TP;Integrated Security=True";
+        private string cadenaConexion = @"Data Source=GONZA\SQLEXPRESS;Initial Catalog=farmacia_TP;Integrated Security=True";
         private static HelperDesc instancia;
 
         public HelperDesc()

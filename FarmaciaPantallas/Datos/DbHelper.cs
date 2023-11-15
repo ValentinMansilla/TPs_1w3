@@ -8,6 +8,7 @@ using System.Data.SqlClient;
 using System.Reflection.Metadata;
 using Entidades;
 using System.Runtime.Intrinsics.X86;
+using RayApp.Datos;
 
 namespace FarmaciaPantallas.Datos
 {
@@ -18,7 +19,7 @@ namespace FarmaciaPantallas.Datos
 
         private DbHelper()
         {
-            conexion = new SqlConnection(@"Data Source=DESKTOP-1PEEIAH\SQLEXPRESS;Initial Catalog=farmacia_TP;Integrated Security=True");
+            conexion = new SqlConnection(@"Data Source=GONZA\SQLEXPRESS;Initial Catalog=farmacia_TP;Integrated Security=True");
         }
 
         public static DbHelper GetInstancia()

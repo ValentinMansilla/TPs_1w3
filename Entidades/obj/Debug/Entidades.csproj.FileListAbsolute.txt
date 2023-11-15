@@ -10,3 +10,9 @@ C:\Users\gonza\Desktop\Apapa\TPs_1w3-main\TPs_1w3-main\Farmacia\Entidades\obj\De
 C:\Users\gonza\Desktop\Apapa\TPs_1w3-main\TPs_1w3-main\Farmacia\Entidades\obj\Debug\Entidades.csproj.CoreCompileInputs.cache
 C:\Users\gonza\Desktop\Apapa\TPs_1w3-main\TPs_1w3-main\Farmacia\Entidades\obj\Debug\Entidades.dll
 C:\Users\gonza\Desktop\Apapa\TPs_1w3-main\TPs_1w3-main\Farmacia\Entidades\obj\Debug\Entidades.pdb
+C:\Users\gonza\Desktop\Nueva carpeta\TPs_1w3\Entidades\bin\Debug\Entidades.dll
+C:\Users\gonza\Desktop\Nueva carpeta\TPs_1w3\Entidades\bin\Debug\Entidades.pdb
+C:\Users\gonza\Desktop\Nueva carpeta\TPs_1w3\Entidades\obj\Debug\Entidades.csproj.AssemblyReference.cache
+C:\Users\gonza\Desktop\Nueva carpeta\TPs_1w3\Entidades\obj\Debug\Entidades.csproj.CoreCompileInputs.cache
+C:\Users\gonza\Desktop\Nueva carpeta\TPs_1w3\Entidades\obj\Debug\Entidades.dll
+C:\Users\gonza\Desktop\Nueva carpeta\TPs_1w3\Entidades\obj\Debug\Entidades.pdb

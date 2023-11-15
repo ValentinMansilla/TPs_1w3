@@ -1,14 +1,14 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\valen\\Desktop\\TPs_1w3-main\\TPs_1w3-main\\Farmacia\\FarmaciaPantallas\\FarmaciaPantallas.csproj": {}
+    "C:\\Users\\gonza\\Desktop\\Nueva carpeta\\TPs_1w3\\FarmaciaPantallas\\FarmaciaPantallas.csproj": {}
   },
   "projects": {
-    "C:\\Users\\valen\\Desktop\\TPs_1w3-main\\TPs_1w3-main\\Farmacia\\Entidades\\Entidades.csproj": {
+    "C:\\Users\\gonza\\Desktop\\Nueva carpeta\\TPs_1w3\\Entidades\\Entidades.csproj": {
       "restore": {
-        "projectUniqueName": "C:\\Users\\valen\\Desktop\\TPs_1w3-main\\TPs_1w3-main\\Farmacia\\Entidades\\Entidades.csproj",
+        "projectUniqueName": "C:\\Users\\gonza\\Desktop\\Nueva carpeta\\TPs_1w3\\Entidades\\Entidades.csproj",
         "projectName": "Entidades",
-        "projectPath": "C:\\Users\\valen\\Desktop\\TPs_1w3-main\\TPs_1w3-main\\Farmacia\\Entidades\\Entidades.csproj",
+        "projectPath": "C:\\Users\\gonza\\Desktop\\Nueva carpeta\\TPs_1w3\\Entidades\\Entidades.csproj",
         "frameworks": {
           "net472": {
             "projectReferences": {}
@@ -19,17 +19,17 @@
         "net472": {}
       }
     },
-    "C:\\Users\\valen\\Desktop\\TPs_1w3-main\\TPs_1w3-main\\Farmacia\\FarmaciaAPI\\FarmaciaAPI.csproj": {
+    "C:\\Users\\gonza\\Desktop\\Nueva carpeta\\TPs_1w3\\FarmaciaAPI\\FarmaciaAPI.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\valen\\Desktop\\TPs_1w3-main\\TPs_1w3-main\\Farmacia\\FarmaciaAPI\\FarmaciaAPI.csproj",
+        "projectUniqueName": "C:\\Users\\gonza\\Desktop\\Nueva carpeta\\TPs_1w3\\FarmaciaAPI\\FarmaciaAPI.csproj",
         "projectName": "FarmaciaAPI",
-        "projectPath": "C:\\Users\\valen\\Desktop\\TPs_1w3-main\\TPs_1w3-main\\Farmacia\\FarmaciaAPI\\FarmaciaAPI.csproj",
-        "packagesPath": "C:\\Users\\valen\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\valen\\Desktop\\TPs_1w3-main\\TPs_1w3-main\\Farmacia\\FarmaciaAPI\\obj\\",
+        "projectPath": "C:\\Users\\gonza\\Desktop\\Nueva carpeta\\TPs_1w3\\FarmaciaAPI\\FarmaciaAPI.csproj",
+        "packagesPath": "C:\\Users\\gonza\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\gonza\\Desktop\\Nueva carpeta\\TPs_1w3\\FarmaciaAPI\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\valen\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\gonza\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -37,6 +37,7 @@
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\sdk\\7.0.304\\Sdks\\Microsoft.NET.Sdk.Web\\library-packs": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
@@ -79,21 +80,21 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.403\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.304\\RuntimeIdentifierGraph.json"
         }
       }
     },
-    "C:\\Users\\valen\\Desktop\\TPs_1w3-main\\TPs_1w3-main\\Farmacia\\FarmaciaPantallas\\FarmaciaPantallas.csproj": {
+    "C:\\Users\\gonza\\Desktop\\Nueva carpeta\\TPs_1w3\\FarmaciaPantallas\\FarmaciaPantallas.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\valen\\Desktop\\TPs_1w3-main\\TPs_1w3-main\\Farmacia\\FarmaciaPantallas\\FarmaciaPantallas.csproj",
+        "projectUniqueName": "C:\\Users\\gonza\\Desktop\\Nueva carpeta\\TPs_1w3\\FarmaciaPantallas\\FarmaciaPantallas.csproj",
         "projectName": "FarmaciaPantallas",
-        "projectPath": "C:\\Users\\valen\\Desktop\\TPs_1w3-main\\TPs_1w3-main\\Farmacia\\FarmaciaPantallas\\FarmaciaPantallas.csproj",
-        "packagesPath": "C:\\Users\\valen\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\valen\\Desktop\\TPs_1w3-main\\TPs_1w3-main\\Farmacia\\FarmaciaPantallas\\obj\\",
+        "projectPath": "C:\\Users\\gonza\\Desktop\\Nueva carpeta\\TPs_1w3\\FarmaciaPantallas\\FarmaciaPantallas.csproj",
+        "packagesPath": "C:\\Users\\gonza\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\gonza\\Desktop\\Nueva carpeta\\TPs_1w3\\FarmaciaPantallas\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\valen\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\gonza\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -107,11 +108,11 @@
           "net6.0-windows7.0": {
             "targetAlias": "net6.0-windows",
             "projectReferences": {
-              "C:\\Users\\valen\\Desktop\\TPs_1w3-main\\TPs_1w3-main\\Farmacia\\Entidades\\Entidades.csproj": {
-                "projectPath": "C:\\Users\\valen\\Desktop\\TPs_1w3-main\\TPs_1w3-main\\Farmacia\\Entidades\\Entidades.csproj"
+              "C:\\Users\\gonza\\Desktop\\Nueva carpeta\\TPs_1w3\\Entidades\\Entidades.csproj": {
+                "projectPath": "C:\\Users\\gonza\\Desktop\\Nueva carpeta\\TPs_1w3\\Entidades\\Entidades.csproj"
               },
-              "C:\\Users\\valen\\Desktop\\TPs_1w3-main\\TPs_1w3-main\\Farmacia\\FarmaciaAPI\\FarmaciaAPI.csproj": {
-                "projectPath": "C:\\Users\\valen\\Desktop\\TPs_1w3-main\\TPs_1w3-main\\Farmacia\\FarmaciaAPI\\FarmaciaAPI.csproj"
+              "C:\\Users\\gonza\\Desktop\\Nueva carpeta\\TPs_1w3\\FarmaciaAPI\\FarmaciaAPI.csproj": {
+                "projectPath": "C:\\Users\\gonza\\Desktop\\Nueva carpeta\\TPs_1w3\\FarmaciaAPI\\FarmaciaAPI.csproj"
               }
             }
           }
@@ -154,7 +155,7 @@
               "privateAssets": "none"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.403\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.304\\RuntimeIdentifierGraph.json"
         }
       }
     }

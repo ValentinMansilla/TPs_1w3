@@ -9,6 +9,7 @@ using System.Threading.Tasks;
 using System.Windows.Forms;
 using Entidades;
 using FarmaciaPantallas.Datos;
+using RayApp.Datos;
 
 namespace FarmaciaPantallas
 {

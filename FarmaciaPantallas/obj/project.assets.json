@@ -2750,19 +2750,19 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\valen\\.nuget\\packages\\": {}
+    "C:\\Users\\gonza\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\valen\\Desktop\\TPs_1w3-main\\TPs_1w3-main\\Farmacia\\FarmaciaPantallas\\FarmaciaPantallas.csproj",
+      "projectUniqueName": "C:\\Users\\gonza\\Desktop\\Nueva carpeta\\TPs_1w3\\FarmaciaPantallas\\FarmaciaPantallas.csproj",
       "projectName": "FarmaciaPantallas",
-      "projectPath": "C:\\Users\\valen\\Desktop\\TPs_1w3-main\\TPs_1w3-main\\Farmacia\\FarmaciaPantallas\\FarmaciaPantallas.csproj",
-      "packagesPath": "C:\\Users\\valen\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\valen\\Desktop\\TPs_1w3-main\\TPs_1w3-main\\Farmacia\\FarmaciaPantallas\\obj\\",
+      "projectPath": "C:\\Users\\gonza\\Desktop\\Nueva carpeta\\TPs_1w3\\FarmaciaPantallas\\FarmaciaPantallas.csproj",
+      "packagesPath": "C:\\Users\\gonza\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\gonza\\Desktop\\Nueva carpeta\\TPs_1w3\\FarmaciaPantallas\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\valen\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\gonza\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -2776,11 +2776,11 @@
         "net6.0-windows7.0": {
           "targetAlias": "net6.0-windows",
           "projectReferences": {
-            "C:\\Users\\valen\\Desktop\\TPs_1w3-main\\TPs_1w3-main\\Farmacia\\Entidades\\Entidades.csproj": {
-              "projectPath": "C:\\Users\\valen\\Desktop\\TPs_1w3-main\\TPs_1w3-main\\Farmacia\\Entidades\\Entidades.csproj"
+            "C:\\Users\\gonza\\Desktop\\Nueva carpeta\\TPs_1w3\\Entidades\\Entidades.csproj": {
+              "projectPath": "C:\\Users\\gonza\\Desktop\\Nueva carpeta\\TPs_1w3\\Entidades\\Entidades.csproj"
             },
-            "C:\\Users\\valen\\Desktop\\TPs_1w3-main\\TPs_1w3-main\\Farmacia\\FarmaciaAPI\\FarmaciaAPI.csproj": {
-              "projectPath": "C:\\Users\\valen\\Desktop\\TPs_1w3-main\\TPs_1w3-main\\Farmacia\\FarmaciaAPI\\FarmaciaAPI.csproj"
+            "C:\\Users\\gonza\\Desktop\\Nueva carpeta\\TPs_1w3\\FarmaciaAPI\\FarmaciaAPI.csproj": {
+              "projectPath": "C:\\Users\\gonza\\Desktop\\Nueva carpeta\\TPs_1w3\\FarmaciaAPI\\FarmaciaAPI.csproj"
             }
           }
         }
@@ -2823,7 +2823,7 @@
             "privateAssets": "none"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.403\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.304\\RuntimeIdentifierGraph.json"
       }
     }
   }
