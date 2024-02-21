@@ -1,0 +1,389 @@
+C:\Users\valen\Desktop\Trabajo Practico\TPs_1w3\FarmaciaTPI\PantallaFarmacia\bin\Debug\net6.0-windows\PantallaFarmacia.exe
+C:\Users\valen\Desktop\Trabajo Practico\TPs_1w3\FarmaciaTPI\PantallaFarmacia\bin\Debug\net6.0-windows\PantallaFarmacia.deps.json
+C:\Users\valen\Desktop\Trabajo Practico\TPs_1w3\FarmaciaTPI\PantallaFarmacia\bin\Debug\net6.0-windows\PantallaFarmacia.runtimeconfig.json
+C:\Users\valen\Desktop\Trabajo Practico\TPs_1w3\FarmaciaTPI\PantallaFarmacia\bin\Debug\net6.0-windows\PantallaFarmacia.dll
+C:\Users\valen\Desktop\Trabajo Practico\TPs_1w3\FarmaciaTPI\PantallaFarmacia\bin\Debug\net6.0-windows\PantallaFarmacia.pdb
+C:\Users\valen\Desktop\Trabajo Practico\TPs_1w3\FarmaciaTPI\PantallaFarmacia\obj\Debug\net6.0-windows\PantallaFarmacia.csproj.GenerateResource.cache
+C:\Users\valen\Desktop\Trabajo Practico\TPs_1w3\FarmaciaTPI\PantallaFarmacia\obj\Debug\net6.0-windows\PantallaFarmacia.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\valen\Desktop\Trabajo Practico\TPs_1w3\FarmaciaTPI\PantallaFarmacia\obj\Debug\net6.0-windows\PantallaFarmacia.AssemblyInfoInputs.cache
+C:\Users\valen\Desktop\Trabajo Practico\TPs_1w3\FarmaciaTPI\PantallaFarmacia\obj\Debug\net6.0-windows\PantallaFarmacia.AssemblyInfo.cs
+C:\Users\valen\Desktop\Trabajo Practico\TPs_1w3\FarmaciaTPI\PantallaFarmacia\obj\Debug\net6.0-windows\PantallaFarmacia.csproj.CoreCompileInputs.cache
+C:\Users\valen\Desktop\Trabajo Practico\TPs_1w3\FarmaciaTPI\PantallaFarmacia\obj\Debug\net6.0-windows\PantallaFarmacia.dll
+C:\Users\valen\Desktop\Trabajo Practico\TPs_1w3\FarmaciaTPI\PantallaFarmacia\obj\Debug\net6.0-windows\refint\PantallaFarmacia.dll
+C:\Users\valen\Desktop\Trabajo Practico\TPs_1w3\FarmaciaTPI\PantallaFarmacia\obj\Debug\net6.0-windows\PantallaFarmacia.pdb
+C:\Users\valen\Desktop\Trabajo Practico\TPs_1w3\FarmaciaTPI\PantallaFarmacia\obj\Debug\net6.0-windows\PantallaFarmacia.genruntimeconfig.cache
+C:\Users\valen\Desktop\Trabajo Practico\TPs_1w3\FarmaciaTPI\PantallaFarmacia\obj\Debug\net6.0-windows\ref\PantallaFarmacia.dll
+C:\Users\valen\Desktop\Trabajo Practico\TPs_1w3\FarmaciaTPI\PantallaFarmacia\obj\Debug\net6.0-windows\PantallaFarmacia.csproj.AssemblyReference.cache
+C:\Users\valen\Desktop\Trabajo Practico\TPs_1w3\FarmaciaTPI\PantallaFarmacia\obj\Debug\net6.0-windows\FarmaciaPantallas.Form1.resources
+C:\Users\valen\Desktop\Trabajo Practico\TPs_1w3\FarmaciaTPI\PantallaFarmacia\obj\Debug\net6.0-windows\FarmaciaPantallas.FrmReporteFactura.resources
+C:\Users\valen\Desktop\Trabajo Practico\TPs_1w3\FarmaciaTPI\PantallaFarmacia\obj\Debug\net6.0-windows\PantallaFarmacia.Properties.Resources.resources
+C:\Users\valen\Desktop\Trabajo Practico\TPs_1w3\FarmaciaTPI\PantallaFarmacia\bin\Debug\net6.0-windows\Microsoft.CodeAnalysis.dll
+C:\Users\valen\Desktop\Trabajo Practico\TPs_1w3\FarmaciaTPI\PantallaFarmacia\bin\Debug\net6.0-windows\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\valen\Desktop\Trabajo Practico\TPs_1w3\FarmaciaTPI\PantallaFarmacia\bin\Debug\net6.0-windows\Newtonsoft.Json.dll
+C:\Users\valen\Desktop\Trabajo Practico\TPs_1w3\FarmaciaTPI\PantallaFarmacia\bin\Debug\net6.0-windows\Microsoft.ReportViewer.Common.dll
+C:\Users\valen\Desktop\Trabajo Practico\TPs_1w3\FarmaciaTPI\PantallaFarmacia\bin\Debug\net6.0-windows\Microsoft.ReportViewer.DataVisualization.dll
+C:\Users\valen\Desktop\Trabajo Practico\TPs_1w3\FarmaciaTPI\PantallaFarmacia\bin\Debug\net6.0-windows\Microsoft.ReportViewer.ProcessingObjectModel.dll
+C:\Users\valen\Desktop\Trabajo Practico\TPs_1w3\FarmaciaTPI\PantallaFarmacia\bin\Debug\net6.0-windows\Microsoft.ReportViewer.WinForms.dll
+C:\Users\valen\Desktop\Trabajo Practico\TPs_1w3\FarmaciaTPI\PantallaFarmacia\bin\Debug\net6.0-windows\System.Data.SqlClient.dll
+C:\Users\valen\Desktop\Trabajo Practico\TPs_1w3\FarmaciaTPI\PantallaFarmacia\bin\Debug\net6.0-windows\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\valen\Desktop\Trabajo Practico\TPs_1w3\FarmaciaTPI\PantallaFarmacia\bin\Debug\net6.0-windows\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\valen\Desktop\Trabajo Practico\TPs_1w3\FarmaciaTPI\PantallaFarmacia\bin\Debug\net6.0-windows\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\valen\Desktop\Trabajo Practico\TPs_1w3\FarmaciaTPI\PantallaFarmacia\bin\Debug\net6.0-windows\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\valen\Desktop\Trabajo Practico\TPs_1w3\FarmaciaTPI\PantallaFarmacia\bin\Debug\net6.0-windows\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\valen\Desktop\Trabajo Practico\TPs_1w3\FarmaciaTPI\PantallaFarmacia\bin\Debug\net6.0-windows\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\valen\Desktop\Trabajo Practico\TPs_1w3\FarmaciaTPI\PantallaFarmacia\bin\Debug\net6.0-windows\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\valen\Desktop\Trabajo Practico\TPs_1w3\FarmaciaTPI\PantallaFarmacia\bin\Debug\net6.0-windows\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\valen\Desktop\Trabajo Practico\TPs_1w3\FarmaciaTPI\PantallaFarmacia\bin\Debug\net6.0-windows\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\valen\Desktop\Trabajo Practico\TPs_1w3\FarmaciaTPI\PantallaFarmacia\bin\Debug\net6.0-windows\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\valen\Desktop\Trabajo Practico\TPs_1w3\FarmaciaTPI\PantallaFarmacia\bin\Debug\net6.0-windows\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\valen\Desktop\Trabajo Practico\TPs_1w3\FarmaciaTPI\PantallaFarmacia\bin\Debug\net6.0-windows\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\valen\Desktop\Trabajo Practico\TPs_1w3\FarmaciaTPI\PantallaFarmacia\bin\Debug\net6.0-windows\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\valen\Desktop\Trabajo Practico\TPs_1w3\FarmaciaTPI\PantallaFarmacia\bin\Debug\net6.0-windows\cs\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Users\valen\Desktop\Trabajo Practico\TPs_1w3\FarmaciaTPI\PantallaFarmacia\bin\Debug\net6.0-windows\de\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Users\valen\Desktop\Trabajo Practico\TPs_1w3\FarmaciaTPI\PantallaFarmacia\bin\Debug\net6.0-windows\es\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Users\valen\Desktop\Trabajo Practico\TPs_1w3\FarmaciaTPI\PantallaFarmacia\bin\Debug\net6.0-windows\fr\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Users\valen\Desktop\Trabajo Practico\TPs_1w3\FarmaciaTPI\PantallaFarmacia\bin\Debug\net6.0-windows\it\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Users\valen\Desktop\Trabajo Practico\TPs_1w3\FarmaciaTPI\PantallaFarmacia\bin\Debug\net6.0-windows\ja\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Users\valen\Desktop\Trabajo Practico\TPs_1w3\FarmaciaTPI\PantallaFarmacia\bin\Debug\net6.0-windows\ko\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Users\valen\Desktop\Trabajo Practico\TPs_1w3\FarmaciaTPI\PantallaFarmacia\bin\Debug\net6.0-windows\pl\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Users\valen\Desktop\Trabajo Practico\TPs_1w3\FarmaciaTPI\PantallaFarmacia\bin\Debug\net6.0-windows\pt-BR\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Users\valen\Desktop\Trabajo Practico\TPs_1w3\FarmaciaTPI\PantallaFarmacia\bin\Debug\net6.0-windows\ru\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Users\valen\Desktop\Trabajo Practico\TPs_1w3\FarmaciaTPI\PantallaFarmacia\bin\Debug\net6.0-windows\tr\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Users\valen\Desktop\Trabajo Practico\TPs_1w3\FarmaciaTPI\PantallaFarmacia\bin\Debug\net6.0-windows\zh-Hans\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Users\valen\Desktop\Trabajo Practico\TPs_1w3\FarmaciaTPI\PantallaFarmacia\bin\Debug\net6.0-windows\zh-Hant\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Users\valen\Desktop\Trabajo Practico\TPs_1w3\FarmaciaTPI\PantallaFarmacia\bin\Debug\net6.0-windows\runtimes\win-arm64\native\sni.dll
+C:\Users\valen\Desktop\Trabajo Practico\TPs_1w3\FarmaciaTPI\PantallaFarmacia\bin\Debug\net6.0-windows\runtimes\win-x64\native\sni.dll
+C:\Users\valen\Desktop\Trabajo Practico\TPs_1w3\FarmaciaTPI\PantallaFarmacia\bin\Debug\net6.0-windows\runtimes\win-x86\native\sni.dll
+C:\Users\valen\Desktop\Trabajo Practico\TPs_1w3\FarmaciaTPI\PantallaFarmacia\bin\Debug\net6.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\valen\Desktop\Trabajo Practico\TPs_1w3\FarmaciaTPI\PantallaFarmacia\bin\Debug\net6.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\valen\Desktop\Trabajo Practico\TPs_1w3\FarmaciaTPI\PantallaFarmacia\bin\Debug\net6.0-windows\DataFarmacia.dll
+C:\Users\valen\Desktop\Trabajo Practico\TPs_1w3\FarmaciaTPI\PantallaFarmacia\bin\Debug\net6.0-windows\DataFarmacia.pdb
+C:\Users\valen\Desktop\Trabajo Practico\TPs_1w3\FarmaciaTPI\PantallaFarmacia\obj\Debug\net6.0-windows\PantallaFarmacia.csproj.CopyComplete
+C:\Users\valen\Desktop\Trabajo Practico\TPs_1w3\FarmaciaTPI\PantallaFarmacia\bin\Debug\net6.0-windows\FarmaciaAPI.deps.json
+C:\Users\valen\Desktop\Trabajo Practico\TPs_1w3\FarmaciaTPI\PantallaFarmacia\bin\Debug\net6.0-windows\FarmaciaAPI.runtimeconfig.json
+C:\Users\valen\Desktop\Trabajo Practico\TPs_1w3\FarmaciaTPI\PantallaFarmacia\bin\Debug\net6.0-windows\appsettings.Development.json
+C:\Users\valen\Desktop\Trabajo Practico\TPs_1w3\FarmaciaTPI\PantallaFarmacia\bin\Debug\net6.0-windows\appsettings.json
+C:\Users\valen\Desktop\Trabajo Practico\TPs_1w3\FarmaciaTPI\PantallaFarmacia\bin\Debug\net6.0-windows\FarmaciaAPI.exe
+C:\Users\valen\Desktop\Trabajo Practico\TPs_1w3\FarmaciaTPI\PantallaFarmacia\bin\Debug\net6.0-windows\Microsoft.OpenApi.dll
+C:\Users\valen\Desktop\Trabajo Practico\TPs_1w3\FarmaciaTPI\PantallaFarmacia\bin\Debug\net6.0-windows\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\valen\Desktop\Trabajo Practico\TPs_1w3\FarmaciaTPI\PantallaFarmacia\bin\Debug\net6.0-windows\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\valen\Desktop\Trabajo Practico\TPs_1w3\FarmaciaTPI\PantallaFarmacia\bin\Debug\net6.0-windows\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\valen\Desktop\Trabajo Practico\TPs_1w3\FarmaciaTPI\PantallaFarmacia\bin\Debug\net6.0-windows\FarmaciaAPI.dll
+C:\Users\valen\Desktop\Trabajo Practico\TPs_1w3\FarmaciaTPI\PantallaFarmacia\bin\Debug\net6.0-windows\FarmaciaAPI.pdb
+C:\Users\valen\Desktop\Tecnicatura en Prog_2023\Programación II\Tpi\FarmaciaTPI\PantallaFarmacia\bin\Debug\net6.0-windows\appsettings.Development.json
+C:\Users\valen\Desktop\Tecnicatura en Prog_2023\Programación II\Tpi\FarmaciaTPI\PantallaFarmacia\bin\Debug\net6.0-windows\appsettings.json
+C:\Users\valen\Desktop\Tecnicatura en Prog_2023\Programación II\Tpi\FarmaciaTPI\PantallaFarmacia\bin\Debug\net6.0-windows\FarmaciaAPI.deps.json
+C:\Users\valen\Desktop\Tecnicatura en Prog_2023\Programación II\Tpi\FarmaciaTPI\PantallaFarmacia\bin\Debug\net6.0-windows\FarmaciaAPI.runtimeconfig.json
+C:\Users\valen\Desktop\Tecnicatura en Prog_2023\Programación II\Tpi\FarmaciaTPI\PantallaFarmacia\bin\Debug\net6.0-windows\FarmaciaAPI.exe
+C:\Users\valen\Desktop\Tecnicatura en Prog_2023\Programación II\Tpi\FarmaciaTPI\PantallaFarmacia\bin\Debug\net6.0-windows\PantallaFarmacia.exe
+C:\Users\valen\Desktop\Tecnicatura en Prog_2023\Programación II\Tpi\FarmaciaTPI\PantallaFarmacia\bin\Debug\net6.0-windows\PantallaFarmacia.deps.json
+C:\Users\valen\Desktop\Tecnicatura en Prog_2023\Programación II\Tpi\FarmaciaTPI\PantallaFarmacia\bin\Debug\net6.0-windows\PantallaFarmacia.runtimeconfig.json
+C:\Users\valen\Desktop\Tecnicatura en Prog_2023\Programación II\Tpi\FarmaciaTPI\PantallaFarmacia\bin\Debug\net6.0-windows\PantallaFarmacia.dll
+C:\Users\valen\Desktop\Tecnicatura en Prog_2023\Programación II\Tpi\FarmaciaTPI\PantallaFarmacia\bin\Debug\net6.0-windows\PantallaFarmacia.pdb
+C:\Users\valen\Desktop\Tecnicatura en Prog_2023\Programación II\Tpi\FarmaciaTPI\PantallaFarmacia\bin\Debug\net6.0-windows\Microsoft.CodeAnalysis.dll
+C:\Users\valen\Desktop\Tecnicatura en Prog_2023\Programación II\Tpi\FarmaciaTPI\PantallaFarmacia\bin\Debug\net6.0-windows\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\valen\Desktop\Tecnicatura en Prog_2023\Programación II\Tpi\FarmaciaTPI\PantallaFarmacia\bin\Debug\net6.0-windows\Microsoft.OpenApi.dll
+C:\Users\valen\Desktop\Tecnicatura en Prog_2023\Programación II\Tpi\FarmaciaTPI\PantallaFarmacia\bin\Debug\net6.0-windows\Newtonsoft.Json.dll
+C:\Users\valen\Desktop\Tecnicatura en Prog_2023\Programación II\Tpi\FarmaciaTPI\PantallaFarmacia\bin\Debug\net6.0-windows\Microsoft.ReportViewer.Common.dll
+C:\Users\valen\Desktop\Tecnicatura en Prog_2023\Programación II\Tpi\FarmaciaTPI\PantallaFarmacia\bin\Debug\net6.0-windows\Microsoft.ReportViewer.DataVisualization.dll
+C:\Users\valen\Desktop\Tecnicatura en Prog_2023\Programación II\Tpi\FarmaciaTPI\PantallaFarmacia\bin\Debug\net6.0-windows\Microsoft.ReportViewer.ProcessingObjectModel.dll
+C:\Users\valen\Desktop\Tecnicatura en Prog_2023\Programación II\Tpi\FarmaciaTPI\PantallaFarmacia\bin\Debug\net6.0-windows\Microsoft.ReportViewer.WinForms.dll
+C:\Users\valen\Desktop\Tecnicatura en Prog_2023\Programación II\Tpi\FarmaciaTPI\PantallaFarmacia\bin\Debug\net6.0-windows\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\valen\Desktop\Tecnicatura en Prog_2023\Programación II\Tpi\FarmaciaTPI\PantallaFarmacia\bin\Debug\net6.0-windows\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\valen\Desktop\Tecnicatura en Prog_2023\Programación II\Tpi\FarmaciaTPI\PantallaFarmacia\bin\Debug\net6.0-windows\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\valen\Desktop\Tecnicatura en Prog_2023\Programación II\Tpi\FarmaciaTPI\PantallaFarmacia\bin\Debug\net6.0-windows\System.Data.SqlClient.dll
+C:\Users\valen\Desktop\Tecnicatura en Prog_2023\Programación II\Tpi\FarmaciaTPI\PantallaFarmacia\bin\Debug\net6.0-windows\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\valen\Desktop\Tecnicatura en Prog_2023\Programación II\Tpi\FarmaciaTPI\PantallaFarmacia\bin\Debug\net6.0-windows\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\valen\Desktop\Tecnicatura en Prog_2023\Programación II\Tpi\FarmaciaTPI\PantallaFarmacia\bin\Debug\net6.0-windows\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\valen\Desktop\Tecnicatura en Prog_2023\Programación II\Tpi\FarmaciaTPI\PantallaFarmacia\bin\Debug\net6.0-windows\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\valen\Desktop\Tecnicatura en Prog_2023\Programación II\Tpi\FarmaciaTPI\PantallaFarmacia\bin\Debug\net6.0-windows\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\valen\Desktop\Tecnicatura en Prog_2023\Programación II\Tpi\FarmaciaTPI\PantallaFarmacia\bin\Debug\net6.0-windows\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\valen\Desktop\Tecnicatura en Prog_2023\Programación II\Tpi\FarmaciaTPI\PantallaFarmacia\bin\Debug\net6.0-windows\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\valen\Desktop\Tecnicatura en Prog_2023\Programación II\Tpi\FarmaciaTPI\PantallaFarmacia\bin\Debug\net6.0-windows\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\valen\Desktop\Tecnicatura en Prog_2023\Programación II\Tpi\FarmaciaTPI\PantallaFarmacia\bin\Debug\net6.0-windows\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\valen\Desktop\Tecnicatura en Prog_2023\Programación II\Tpi\FarmaciaTPI\PantallaFarmacia\bin\Debug\net6.0-windows\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\valen\Desktop\Tecnicatura en Prog_2023\Programación II\Tpi\FarmaciaTPI\PantallaFarmacia\bin\Debug\net6.0-windows\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\valen\Desktop\Tecnicatura en Prog_2023\Programación II\Tpi\FarmaciaTPI\PantallaFarmacia\bin\Debug\net6.0-windows\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\valen\Desktop\Tecnicatura en Prog_2023\Programación II\Tpi\FarmaciaTPI\PantallaFarmacia\bin\Debug\net6.0-windows\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\valen\Desktop\Tecnicatura en Prog_2023\Programación II\Tpi\FarmaciaTPI\PantallaFarmacia\bin\Debug\net6.0-windows\cs\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Users\valen\Desktop\Tecnicatura en Prog_2023\Programación II\Tpi\FarmaciaTPI\PantallaFarmacia\bin\Debug\net6.0-windows\de\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Users\valen\Desktop\Tecnicatura en Prog_2023\Programación II\Tpi\FarmaciaTPI\PantallaFarmacia\bin\Debug\net6.0-windows\es\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Users\valen\Desktop\Tecnicatura en Prog_2023\Programación II\Tpi\FarmaciaTPI\PantallaFarmacia\bin\Debug\net6.0-windows\fr\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Users\valen\Desktop\Tecnicatura en Prog_2023\Programación II\Tpi\FarmaciaTPI\PantallaFarmacia\bin\Debug\net6.0-windows\it\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Users\valen\Desktop\Tecnicatura en Prog_2023\Programación II\Tpi\FarmaciaTPI\PantallaFarmacia\bin\Debug\net6.0-windows\ja\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Users\valen\Desktop\Tecnicatura en Prog_2023\Programación II\Tpi\FarmaciaTPI\PantallaFarmacia\bin\Debug\net6.0-windows\ko\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Users\valen\Desktop\Tecnicatura en Prog_2023\Programación II\Tpi\FarmaciaTPI\PantallaFarmacia\bin\Debug\net6.0-windows\pl\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Users\valen\Desktop\Tecnicatura en Prog_2023\Programación II\Tpi\FarmaciaTPI\PantallaFarmacia\bin\Debug\net6.0-windows\pt-BR\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Users\valen\Desktop\Tecnicatura en Prog_2023\Programación II\Tpi\FarmaciaTPI\PantallaFarmacia\bin\Debug\net6.0-windows\ru\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Users\valen\Desktop\Tecnicatura en Prog_2023\Programación II\Tpi\FarmaciaTPI\PantallaFarmacia\bin\Debug\net6.0-windows\tr\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Users\valen\Desktop\Tecnicatura en Prog_2023\Programación II\Tpi\FarmaciaTPI\PantallaFarmacia\bin\Debug\net6.0-windows\zh-Hans\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Users\valen\Desktop\Tecnicatura en Prog_2023\Programación II\Tpi\FarmaciaTPI\PantallaFarmacia\bin\Debug\net6.0-windows\zh-Hant\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Users\valen\Desktop\Tecnicatura en Prog_2023\Programación II\Tpi\FarmaciaTPI\PantallaFarmacia\bin\Debug\net6.0-windows\runtimes\win-arm64\native\sni.dll
+C:\Users\valen\Desktop\Tecnicatura en Prog_2023\Programación II\Tpi\FarmaciaTPI\PantallaFarmacia\bin\Debug\net6.0-windows\runtimes\win-x64\native\sni.dll
+C:\Users\valen\Desktop\Tecnicatura en Prog_2023\Programación II\Tpi\FarmaciaTPI\PantallaFarmacia\bin\Debug\net6.0-windows\runtimes\win-x86\native\sni.dll
+C:\Users\valen\Desktop\Tecnicatura en Prog_2023\Programación II\Tpi\FarmaciaTPI\PantallaFarmacia\bin\Debug\net6.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\valen\Desktop\Tecnicatura en Prog_2023\Programación II\Tpi\FarmaciaTPI\PantallaFarmacia\bin\Debug\net6.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\valen\Desktop\Tecnicatura en Prog_2023\Programación II\Tpi\FarmaciaTPI\PantallaFarmacia\bin\Debug\net6.0-windows\DataFarmacia.dll
+C:\Users\valen\Desktop\Tecnicatura en Prog_2023\Programación II\Tpi\FarmaciaTPI\PantallaFarmacia\bin\Debug\net6.0-windows\FarmaciaAPI.dll
+C:\Users\valen\Desktop\Tecnicatura en Prog_2023\Programación II\Tpi\FarmaciaTPI\PantallaFarmacia\bin\Debug\net6.0-windows\DataFarmacia.pdb
+C:\Users\valen\Desktop\Tecnicatura en Prog_2023\Programación II\Tpi\FarmaciaTPI\PantallaFarmacia\bin\Debug\net6.0-windows\FarmaciaAPI.pdb
+C:\Users\valen\Desktop\Tecnicatura en Prog_2023\Programación II\Tpi\FarmaciaTPI\PantallaFarmacia\obj\Debug\net6.0-windows\PantallaFarmacia.csproj.AssemblyReference.cache
+C:\Users\valen\Desktop\Tecnicatura en Prog_2023\Programación II\Tpi\FarmaciaTPI\PantallaFarmacia\obj\Debug\net6.0-windows\FarmaciaPantallas.Form1.resources
+C:\Users\valen\Desktop\Tecnicatura en Prog_2023\Programación II\Tpi\FarmaciaTPI\PantallaFarmacia\obj\Debug\net6.0-windows\FarmaciaPantallas.FrmReporteFactura.resources
+C:\Users\valen\Desktop\Tecnicatura en Prog_2023\Programación II\Tpi\FarmaciaTPI\PantallaFarmacia\obj\Debug\net6.0-windows\PantallaFarmacia.Properties.Resources.resources
+C:\Users\valen\Desktop\Tecnicatura en Prog_2023\Programación II\Tpi\FarmaciaTPI\PantallaFarmacia\obj\Debug\net6.0-windows\PantallaFarmacia.csproj.GenerateResource.cache
+C:\Users\valen\Desktop\Tecnicatura en Prog_2023\Programación II\Tpi\FarmaciaTPI\PantallaFarmacia\obj\Debug\net6.0-windows\PantallaFarmacia.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\valen\Desktop\Tecnicatura en Prog_2023\Programación II\Tpi\FarmaciaTPI\PantallaFarmacia\obj\Debug\net6.0-windows\PantallaFarmacia.AssemblyInfoInputs.cache
+C:\Users\valen\Desktop\Tecnicatura en Prog_2023\Programación II\Tpi\FarmaciaTPI\PantallaFarmacia\obj\Debug\net6.0-windows\PantallaFarmacia.AssemblyInfo.cs
+C:\Users\valen\Desktop\Tecnicatura en Prog_2023\Programación II\Tpi\FarmaciaTPI\PantallaFarmacia\obj\Debug\net6.0-windows\PantallaFarmacia.csproj.CoreCompileInputs.cache
+C:\Users\valen\Desktop\Tecnicatura en Prog_2023\Programación II\Tpi\FarmaciaTPI\PantallaFarmacia\obj\Debug\net6.0-windows\PantallaFarmacia.csproj.CopyComplete
+C:\Users\valen\Desktop\Tecnicatura en Prog_2023\Programación II\Tpi\FarmaciaTPI\PantallaFarmacia\obj\Debug\net6.0-windows\PantallaFarmacia.dll
+C:\Users\valen\Desktop\Tecnicatura en Prog_2023\Programación II\Tpi\FarmaciaTPI\PantallaFarmacia\obj\Debug\net6.0-windows\refint\PantallaFarmacia.dll
+C:\Users\valen\Desktop\Tecnicatura en Prog_2023\Programación II\Tpi\FarmaciaTPI\PantallaFarmacia\obj\Debug\net6.0-windows\PantallaFarmacia.pdb
+C:\Users\valen\Desktop\Tecnicatura en Prog_2023\Programación II\Tpi\FarmaciaTPI\PantallaFarmacia\obj\Debug\net6.0-windows\PantallaFarmacia.genruntimeconfig.cache
+C:\Users\valen\Desktop\Tecnicatura en Prog_2023\Programación II\Tpi\FarmaciaTPI\PantallaFarmacia\obj\Debug\net6.0-windows\ref\PantallaFarmacia.dll
+C:\Users\valen\Desktop\Tecnicatura en Prog_2023\Programación II\Tpi\FarmaciaTPI\PantallaFarmacia\obj\Debug\net6.0-windows\FarmaciaPantallas.Frm_clientes.resources
+C:\Users\valen\Desktop\Tecnicatura en Prog_2023\Programación II\Tpi\FarmaciaTPI\PantallaFarmacia\obj\Debug\net6.0-windows\FarmaciaPantallas.Frm_Nuevo_Cliente.resources
+C:\Users\valen\Desktop\Tecnicatura en Prog_2023\Programación II\Tpi\FarmaciaTPI\PantallaFarmacia\obj\Debug\net6.0-windows\FarmaciaPantallas.Nueva_Factura.resources
+C:\Users\valen\Desktop\Tecnicatura en Prog_2023\Programación II\Tpi\FarmaciaTPI\PantallaFarmacia\obj\Debug\net6.0-windows\PantallaFarmacia.FrmNosotros.resources
+C:\Users\valen\Desktop\Tecnicatura en Prog_2023\Programación II\Tpi\FarmaciaTPI\PantallaFarmacia\obj\Debug\net6.0-windows\PantallaFarmacia.FrmLogin.resources
+C:\Users\valen\Desktop\FarmaciaTPI\PantallaFarmacia\bin\Debug\net6.0-windows\appsettings.Development.json
+C:\Users\valen\Desktop\FarmaciaTPI\PantallaFarmacia\bin\Debug\net6.0-windows\appsettings.json
+C:\Users\valen\Desktop\FarmaciaTPI\PantallaFarmacia\bin\Debug\net6.0-windows\FarmaciaAPI.deps.json
+C:\Users\valen\Desktop\FarmaciaTPI\PantallaFarmacia\bin\Debug\net6.0-windows\FarmaciaAPI.runtimeconfig.json
+C:\Users\valen\Desktop\FarmaciaTPI\PantallaFarmacia\bin\Debug\net6.0-windows\FarmaciaAPI.exe
+C:\Users\valen\Desktop\FarmaciaTPI\PantallaFarmacia\bin\Debug\net6.0-windows\PantallaFarmacia.exe
+C:\Users\valen\Desktop\FarmaciaTPI\PantallaFarmacia\bin\Debug\net6.0-windows\PantallaFarmacia.deps.json
+C:\Users\valen\Desktop\FarmaciaTPI\PantallaFarmacia\bin\Debug\net6.0-windows\PantallaFarmacia.runtimeconfig.json
+C:\Users\valen\Desktop\FarmaciaTPI\PantallaFarmacia\bin\Debug\net6.0-windows\PantallaFarmacia.dll
+C:\Users\valen\Desktop\FarmaciaTPI\PantallaFarmacia\bin\Debug\net6.0-windows\PantallaFarmacia.pdb
+C:\Users\valen\Desktop\FarmaciaTPI\PantallaFarmacia\bin\Debug\net6.0-windows\Microsoft.CodeAnalysis.dll
+C:\Users\valen\Desktop\FarmaciaTPI\PantallaFarmacia\bin\Debug\net6.0-windows\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\valen\Desktop\FarmaciaTPI\PantallaFarmacia\bin\Debug\net6.0-windows\Microsoft.OpenApi.dll
+C:\Users\valen\Desktop\FarmaciaTPI\PantallaFarmacia\bin\Debug\net6.0-windows\Newtonsoft.Json.dll
+C:\Users\valen\Desktop\FarmaciaTPI\PantallaFarmacia\bin\Debug\net6.0-windows\Microsoft.ReportViewer.Common.dll
+C:\Users\valen\Desktop\FarmaciaTPI\PantallaFarmacia\bin\Debug\net6.0-windows\Microsoft.ReportViewer.DataVisualization.dll
+C:\Users\valen\Desktop\FarmaciaTPI\PantallaFarmacia\bin\Debug\net6.0-windows\Microsoft.ReportViewer.ProcessingObjectModel.dll
+C:\Users\valen\Desktop\FarmaciaTPI\PantallaFarmacia\bin\Debug\net6.0-windows\Microsoft.ReportViewer.WinForms.dll
+C:\Users\valen\Desktop\FarmaciaTPI\PantallaFarmacia\bin\Debug\net6.0-windows\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\valen\Desktop\FarmaciaTPI\PantallaFarmacia\bin\Debug\net6.0-windows\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\valen\Desktop\FarmaciaTPI\PantallaFarmacia\bin\Debug\net6.0-windows\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\valen\Desktop\FarmaciaTPI\PantallaFarmacia\bin\Debug\net6.0-windows\System.Data.SqlClient.dll
+C:\Users\valen\Desktop\FarmaciaTPI\PantallaFarmacia\bin\Debug\net6.0-windows\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\valen\Desktop\FarmaciaTPI\PantallaFarmacia\bin\Debug\net6.0-windows\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\valen\Desktop\FarmaciaTPI\PantallaFarmacia\bin\Debug\net6.0-windows\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\valen\Desktop\FarmaciaTPI\PantallaFarmacia\bin\Debug\net6.0-windows\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\valen\Desktop\FarmaciaTPI\PantallaFarmacia\bin\Debug\net6.0-windows\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\valen\Desktop\FarmaciaTPI\PantallaFarmacia\bin\Debug\net6.0-windows\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\valen\Desktop\FarmaciaTPI\PantallaFarmacia\bin\Debug\net6.0-windows\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\valen\Desktop\FarmaciaTPI\PantallaFarmacia\bin\Debug\net6.0-windows\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\valen\Desktop\FarmaciaTPI\PantallaFarmacia\bin\Debug\net6.0-windows\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\valen\Desktop\FarmaciaTPI\PantallaFarmacia\bin\Debug\net6.0-windows\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\valen\Desktop\FarmaciaTPI\PantallaFarmacia\bin\Debug\net6.0-windows\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\valen\Desktop\FarmaciaTPI\PantallaFarmacia\bin\Debug\net6.0-windows\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\valen\Desktop\FarmaciaTPI\PantallaFarmacia\bin\Debug\net6.0-windows\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\valen\Desktop\FarmaciaTPI\PantallaFarmacia\bin\Debug\net6.0-windows\cs\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Users\valen\Desktop\FarmaciaTPI\PantallaFarmacia\bin\Debug\net6.0-windows\de\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Users\valen\Desktop\FarmaciaTPI\PantallaFarmacia\bin\Debug\net6.0-windows\es\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Users\valen\Desktop\FarmaciaTPI\PantallaFarmacia\bin\Debug\net6.0-windows\fr\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Users\valen\Desktop\FarmaciaTPI\PantallaFarmacia\bin\Debug\net6.0-windows\it\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Users\valen\Desktop\FarmaciaTPI\PantallaFarmacia\bin\Debug\net6.0-windows\ja\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Users\valen\Desktop\FarmaciaTPI\PantallaFarmacia\bin\Debug\net6.0-windows\ko\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Users\valen\Desktop\FarmaciaTPI\PantallaFarmacia\bin\Debug\net6.0-windows\pl\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Users\valen\Desktop\FarmaciaTPI\PantallaFarmacia\bin\Debug\net6.0-windows\pt-BR\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Users\valen\Desktop\FarmaciaTPI\PantallaFarmacia\bin\Debug\net6.0-windows\ru\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Users\valen\Desktop\FarmaciaTPI\PantallaFarmacia\bin\Debug\net6.0-windows\tr\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Users\valen\Desktop\FarmaciaTPI\PantallaFarmacia\bin\Debug\net6.0-windows\zh-Hans\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Users\valen\Desktop\FarmaciaTPI\PantallaFarmacia\bin\Debug\net6.0-windows\zh-Hant\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Users\valen\Desktop\FarmaciaTPI\PantallaFarmacia\bin\Debug\net6.0-windows\runtimes\win-arm64\native\sni.dll
+C:\Users\valen\Desktop\FarmaciaTPI\PantallaFarmacia\bin\Debug\net6.0-windows\runtimes\win-x64\native\sni.dll
+C:\Users\valen\Desktop\FarmaciaTPI\PantallaFarmacia\bin\Debug\net6.0-windows\runtimes\win-x86\native\sni.dll
+C:\Users\valen\Desktop\FarmaciaTPI\PantallaFarmacia\bin\Debug\net6.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\valen\Desktop\FarmaciaTPI\PantallaFarmacia\bin\Debug\net6.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\valen\Desktop\FarmaciaTPI\PantallaFarmacia\bin\Debug\net6.0-windows\DataFarmacia.dll
+C:\Users\valen\Desktop\FarmaciaTPI\PantallaFarmacia\bin\Debug\net6.0-windows\FarmaciaAPI.dll
+C:\Users\valen\Desktop\FarmaciaTPI\PantallaFarmacia\bin\Debug\net6.0-windows\DataFarmacia.pdb
+C:\Users\valen\Desktop\FarmaciaTPI\PantallaFarmacia\bin\Debug\net6.0-windows\FarmaciaAPI.pdb
+C:\Users\valen\Desktop\FarmaciaTPI\PantallaFarmacia\obj\Debug\net6.0-windows\PantallaFarmacia.csproj.AssemblyReference.cache
+C:\Users\valen\Desktop\FarmaciaTPI\PantallaFarmacia\obj\Debug\net6.0-windows\FarmaciaPantallas.Form1.resources
+C:\Users\valen\Desktop\FarmaciaTPI\PantallaFarmacia\obj\Debug\net6.0-windows\PantallaFarmacia.FrmLogin.resources
+C:\Users\valen\Desktop\FarmaciaTPI\PantallaFarmacia\obj\Debug\net6.0-windows\PantallaFarmacia.FrmNosotros.resources
+C:\Users\valen\Desktop\FarmaciaTPI\PantallaFarmacia\obj\Debug\net6.0-windows\FarmaciaPantallas.FrmReporteFactura.resources
+C:\Users\valen\Desktop\FarmaciaTPI\PantallaFarmacia\obj\Debug\net6.0-windows\FarmaciaPantallas.Frm_clientes.resources
+C:\Users\valen\Desktop\FarmaciaTPI\PantallaFarmacia\obj\Debug\net6.0-windows\FarmaciaPantallas.Frm_Nuevo_Cliente.resources
+C:\Users\valen\Desktop\FarmaciaTPI\PantallaFarmacia\obj\Debug\net6.0-windows\PantallaFarmacia.Properties.Resources.resources
+C:\Users\valen\Desktop\FarmaciaTPI\PantallaFarmacia\obj\Debug\net6.0-windows\PantallaFarmacia.csproj.GenerateResource.cache
+C:\Users\valen\Desktop\FarmaciaTPI\PantallaFarmacia\obj\Debug\net6.0-windows\PantallaFarmacia.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\valen\Desktop\FarmaciaTPI\PantallaFarmacia\obj\Debug\net6.0-windows\PantallaFarmacia.AssemblyInfoInputs.cache
+C:\Users\valen\Desktop\FarmaciaTPI\PantallaFarmacia\obj\Debug\net6.0-windows\PantallaFarmacia.AssemblyInfo.cs
+C:\Users\valen\Desktop\FarmaciaTPI\PantallaFarmacia\obj\Debug\net6.0-windows\PantallaFarmacia.csproj.CoreCompileInputs.cache
+C:\Users\valen\Desktop\FarmaciaTPI\PantallaFarmacia\obj\Debug\net6.0-windows\PantallaFarmacia.csproj.CopyComplete
+C:\Users\valen\Desktop\FarmaciaTPI\PantallaFarmacia\obj\Debug\net6.0-windows\PantallaFarmacia.dll
+C:\Users\valen\Desktop\FarmaciaTPI\PantallaFarmacia\obj\Debug\net6.0-windows\refint\PantallaFarmacia.dll
+C:\Users\valen\Desktop\FarmaciaTPI\PantallaFarmacia\obj\Debug\net6.0-windows\PantallaFarmacia.pdb
+C:\Users\valen\Desktop\FarmaciaTPI\PantallaFarmacia\obj\Debug\net6.0-windows\PantallaFarmacia.genruntimeconfig.cache
+C:\Users\valen\Desktop\FarmaciaTPI\PantallaFarmacia\obj\Debug\net6.0-windows\ref\PantallaFarmacia.dll
+C:\Users\valen\Desktop\FarmaciaTPI\PantallaFarmacia\obj\Debug\net6.0-windows\PantallaFarmacia.FrmFactura.resources
+C:\Users\valen\Desktop\FarmaciaTPI\PantallaFarmacia\obj\Debug\net6.0-windows\PantallaFarmacia.Frm_BM_Cliente.resources
+C:\Users\valen\Desktop\FarmaciaTPI\PantallaFarmacia\obj\Debug\net6.0-windows\PantallaFarmacia.FrmConsultarFactura.resources
+C:\Users\valen\Desktop\FarmaciaTPI\PantallaFarmacia\obj\Debug\net6.0-windows\PantallaFarmacia.Frm_Detalles.resources
+C:\Users\gonza\Desktop\Valem\FarmaciaTPI\PantallaFarmacia\bin\Debug\net6.0-windows\appsettings.Development.json
+C:\Users\gonza\Desktop\Valem\FarmaciaTPI\PantallaFarmacia\bin\Debug\net6.0-windows\appsettings.json
+C:\Users\gonza\Desktop\Valem\FarmaciaTPI\PantallaFarmacia\bin\Debug\net6.0-windows\FarmaciaAPI.deps.json
+C:\Users\gonza\Desktop\Valem\FarmaciaTPI\PantallaFarmacia\bin\Debug\net6.0-windows\FarmaciaAPI.runtimeconfig.json
+C:\Users\gonza\Desktop\Valem\FarmaciaTPI\PantallaFarmacia\bin\Debug\net6.0-windows\FarmaciaAPI.exe
+C:\Users\gonza\Desktop\Valem\FarmaciaTPI\PantallaFarmacia\bin\Debug\net6.0-windows\PantallaFarmacia.exe
+C:\Users\gonza\Desktop\Valem\FarmaciaTPI\PantallaFarmacia\bin\Debug\net6.0-windows\PantallaFarmacia.deps.json
+C:\Users\gonza\Desktop\Valem\FarmaciaTPI\PantallaFarmacia\bin\Debug\net6.0-windows\PantallaFarmacia.runtimeconfig.json
+C:\Users\gonza\Desktop\Valem\FarmaciaTPI\PantallaFarmacia\bin\Debug\net6.0-windows\PantallaFarmacia.dll
+C:\Users\gonza\Desktop\Valem\FarmaciaTPI\PantallaFarmacia\bin\Debug\net6.0-windows\PantallaFarmacia.pdb
+C:\Users\gonza\Desktop\Valem\FarmaciaTPI\PantallaFarmacia\bin\Debug\net6.0-windows\Microsoft.CodeAnalysis.dll
+C:\Users\gonza\Desktop\Valem\FarmaciaTPI\PantallaFarmacia\bin\Debug\net6.0-windows\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\gonza\Desktop\Valem\FarmaciaTPI\PantallaFarmacia\bin\Debug\net6.0-windows\Microsoft.OpenApi.dll
+C:\Users\gonza\Desktop\Valem\FarmaciaTPI\PantallaFarmacia\bin\Debug\net6.0-windows\Newtonsoft.Json.dll
+C:\Users\gonza\Desktop\Valem\FarmaciaTPI\PantallaFarmacia\bin\Debug\net6.0-windows\Microsoft.ReportViewer.Common.dll
+C:\Users\gonza\Desktop\Valem\FarmaciaTPI\PantallaFarmacia\bin\Debug\net6.0-windows\Microsoft.ReportViewer.DataVisualization.dll
+C:\Users\gonza\Desktop\Valem\FarmaciaTPI\PantallaFarmacia\bin\Debug\net6.0-windows\Microsoft.ReportViewer.ProcessingObjectModel.dll
+C:\Users\gonza\Desktop\Valem\FarmaciaTPI\PantallaFarmacia\bin\Debug\net6.0-windows\Microsoft.ReportViewer.WinForms.dll
+C:\Users\gonza\Desktop\Valem\FarmaciaTPI\PantallaFarmacia\bin\Debug\net6.0-windows\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\gonza\Desktop\Valem\FarmaciaTPI\PantallaFarmacia\bin\Debug\net6.0-windows\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\gonza\Desktop\Valem\FarmaciaTPI\PantallaFarmacia\bin\Debug\net6.0-windows\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\gonza\Desktop\Valem\FarmaciaTPI\PantallaFarmacia\bin\Debug\net6.0-windows\System.Data.SqlClient.dll
+C:\Users\gonza\Desktop\Valem\FarmaciaTPI\PantallaFarmacia\bin\Debug\net6.0-windows\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\gonza\Desktop\Valem\FarmaciaTPI\PantallaFarmacia\bin\Debug\net6.0-windows\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\gonza\Desktop\Valem\FarmaciaTPI\PantallaFarmacia\bin\Debug\net6.0-windows\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\gonza\Desktop\Valem\FarmaciaTPI\PantallaFarmacia\bin\Debug\net6.0-windows\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\gonza\Desktop\Valem\FarmaciaTPI\PantallaFarmacia\bin\Debug\net6.0-windows\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\gonza\Desktop\Valem\FarmaciaTPI\PantallaFarmacia\bin\Debug\net6.0-windows\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\gonza\Desktop\Valem\FarmaciaTPI\PantallaFarmacia\bin\Debug\net6.0-windows\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\gonza\Desktop\Valem\FarmaciaTPI\PantallaFarmacia\bin\Debug\net6.0-windows\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\gonza\Desktop\Valem\FarmaciaTPI\PantallaFarmacia\bin\Debug\net6.0-windows\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\gonza\Desktop\Valem\FarmaciaTPI\PantallaFarmacia\bin\Debug\net6.0-windows\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\gonza\Desktop\Valem\FarmaciaTPI\PantallaFarmacia\bin\Debug\net6.0-windows\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\gonza\Desktop\Valem\FarmaciaTPI\PantallaFarmacia\bin\Debug\net6.0-windows\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\gonza\Desktop\Valem\FarmaciaTPI\PantallaFarmacia\bin\Debug\net6.0-windows\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\gonza\Desktop\Valem\FarmaciaTPI\PantallaFarmacia\bin\Debug\net6.0-windows\cs\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Users\gonza\Desktop\Valem\FarmaciaTPI\PantallaFarmacia\bin\Debug\net6.0-windows\de\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Users\gonza\Desktop\Valem\FarmaciaTPI\PantallaFarmacia\bin\Debug\net6.0-windows\es\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Users\gonza\Desktop\Valem\FarmaciaTPI\PantallaFarmacia\bin\Debug\net6.0-windows\fr\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Users\gonza\Desktop\Valem\FarmaciaTPI\PantallaFarmacia\bin\Debug\net6.0-windows\it\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Users\gonza\Desktop\Valem\FarmaciaTPI\PantallaFarmacia\bin\Debug\net6.0-windows\ja\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Users\gonza\Desktop\Valem\FarmaciaTPI\PantallaFarmacia\bin\Debug\net6.0-windows\ko\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Users\gonza\Desktop\Valem\FarmaciaTPI\PantallaFarmacia\bin\Debug\net6.0-windows\pl\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Users\gonza\Desktop\Valem\FarmaciaTPI\PantallaFarmacia\bin\Debug\net6.0-windows\pt-BR\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Users\gonza\Desktop\Valem\FarmaciaTPI\PantallaFarmacia\bin\Debug\net6.0-windows\ru\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Users\gonza\Desktop\Valem\FarmaciaTPI\PantallaFarmacia\bin\Debug\net6.0-windows\tr\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Users\gonza\Desktop\Valem\FarmaciaTPI\PantallaFarmacia\bin\Debug\net6.0-windows\zh-Hans\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Users\gonza\Desktop\Valem\FarmaciaTPI\PantallaFarmacia\bin\Debug\net6.0-windows\zh-Hant\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Users\gonza\Desktop\Valem\FarmaciaTPI\PantallaFarmacia\bin\Debug\net6.0-windows\runtimes\win-arm64\native\sni.dll
+C:\Users\gonza\Desktop\Valem\FarmaciaTPI\PantallaFarmacia\bin\Debug\net6.0-windows\runtimes\win-x64\native\sni.dll
+C:\Users\gonza\Desktop\Valem\FarmaciaTPI\PantallaFarmacia\bin\Debug\net6.0-windows\runtimes\win-x86\native\sni.dll
+C:\Users\gonza\Desktop\Valem\FarmaciaTPI\PantallaFarmacia\bin\Debug\net6.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\gonza\Desktop\Valem\FarmaciaTPI\PantallaFarmacia\bin\Debug\net6.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\gonza\Desktop\Valem\FarmaciaTPI\PantallaFarmacia\bin\Debug\net6.0-windows\DataFarmacia.dll
+C:\Users\gonza\Desktop\Valem\FarmaciaTPI\PantallaFarmacia\bin\Debug\net6.0-windows\FarmaciaAPI.dll
+C:\Users\gonza\Desktop\Valem\FarmaciaTPI\PantallaFarmacia\bin\Debug\net6.0-windows\DataFarmacia.pdb
+C:\Users\gonza\Desktop\Valem\FarmaciaTPI\PantallaFarmacia\bin\Debug\net6.0-windows\FarmaciaAPI.pdb
+C:\Users\gonza\Desktop\Valem\FarmaciaTPI\PantallaFarmacia\obj\Debug\net6.0-windows\PantallaFarmacia.csproj.AssemblyReference.cache
+C:\Users\gonza\Desktop\Valem\FarmaciaTPI\PantallaFarmacia\obj\Debug\net6.0-windows\FarmaciaPantallas.Form1.resources
+C:\Users\gonza\Desktop\Valem\FarmaciaTPI\PantallaFarmacia\obj\Debug\net6.0-windows\PantallaFarmacia.FrmConsultarFactura.resources
+C:\Users\gonza\Desktop\Valem\FarmaciaTPI\PantallaFarmacia\obj\Debug\net6.0-windows\PantallaFarmacia.FrmFactura.resources
+C:\Users\gonza\Desktop\Valem\FarmaciaTPI\PantallaFarmacia\obj\Debug\net6.0-windows\PantallaFarmacia.FrmLogin.resources
+C:\Users\gonza\Desktop\Valem\FarmaciaTPI\PantallaFarmacia\obj\Debug\net6.0-windows\PantallaFarmacia.FrmNosotros.resources
+C:\Users\gonza\Desktop\Valem\FarmaciaTPI\PantallaFarmacia\obj\Debug\net6.0-windows\FarmaciaPantallas.FrmReporteFactura.resources
+C:\Users\gonza\Desktop\Valem\FarmaciaTPI\PantallaFarmacia\obj\Debug\net6.0-windows\PantallaFarmacia.Frm_BM_Cliente.resources
+C:\Users\gonza\Desktop\Valem\FarmaciaTPI\PantallaFarmacia\obj\Debug\net6.0-windows\FarmaciaPantallas.Frm_clientes.resources
+C:\Users\gonza\Desktop\Valem\FarmaciaTPI\PantallaFarmacia\obj\Debug\net6.0-windows\PantallaFarmacia.Frm_Detalles.resources
+C:\Users\gonza\Desktop\Valem\FarmaciaTPI\PantallaFarmacia\obj\Debug\net6.0-windows\FarmaciaPantallas.Frm_Nuevo_Cliente.resources
+C:\Users\gonza\Desktop\Valem\FarmaciaTPI\PantallaFarmacia\obj\Debug\net6.0-windows\PantallaFarmacia.Properties.Resources.resources
+C:\Users\gonza\Desktop\Valem\FarmaciaTPI\PantallaFarmacia\obj\Debug\net6.0-windows\PantallaFarmacia.csproj.GenerateResource.cache
+C:\Users\gonza\Desktop\Valem\FarmaciaTPI\PantallaFarmacia\obj\Debug\net6.0-windows\PantallaFarmacia.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gonza\Desktop\Valem\FarmaciaTPI\PantallaFarmacia\obj\Debug\net6.0-windows\PantallaFarmacia.AssemblyInfoInputs.cache
+C:\Users\gonza\Desktop\Valem\FarmaciaTPI\PantallaFarmacia\obj\Debug\net6.0-windows\PantallaFarmacia.AssemblyInfo.cs
+C:\Users\gonza\Desktop\Valem\FarmaciaTPI\PantallaFarmacia\obj\Debug\net6.0-windows\PantallaFarmacia.csproj.CoreCompileInputs.cache
+C:\Users\gonza\Desktop\Valem\FarmaciaTPI\PantallaFarmacia\obj\Debug\net6.0-windows\PantallaFarmacia.csproj.CopyComplete
+C:\Users\gonza\Desktop\Valem\FarmaciaTPI\PantallaFarmacia\obj\Debug\net6.0-windows\PantallaFarmacia.dll
+C:\Users\gonza\Desktop\Valem\FarmaciaTPI\PantallaFarmacia\obj\Debug\net6.0-windows\refint\PantallaFarmacia.dll
+C:\Users\gonza\Desktop\Valem\FarmaciaTPI\PantallaFarmacia\obj\Debug\net6.0-windows\PantallaFarmacia.pdb
+C:\Users\gonza\Desktop\Valem\FarmaciaTPI\PantallaFarmacia\obj\Debug\net6.0-windows\PantallaFarmacia.genruntimeconfig.cache
+C:\Users\gonza\Desktop\Valem\FarmaciaTPI\PantallaFarmacia\obj\Debug\net6.0-windows\ref\PantallaFarmacia.dll
+C:\Users\valen\Desktop\Valem\FarmaciaTPI\PantallaFarmacia\bin\Debug\net6.0-windows\appsettings.Development.json
+C:\Users\valen\Desktop\Valem\FarmaciaTPI\PantallaFarmacia\bin\Debug\net6.0-windows\appsettings.json
+C:\Users\valen\Desktop\Valem\FarmaciaTPI\PantallaFarmacia\bin\Debug\net6.0-windows\FarmaciaAPI.deps.json
+C:\Users\valen\Desktop\Valem\FarmaciaTPI\PantallaFarmacia\bin\Debug\net6.0-windows\FarmaciaAPI.runtimeconfig.json
+C:\Users\valen\Desktop\Valem\FarmaciaTPI\PantallaFarmacia\bin\Debug\net6.0-windows\FarmaciaAPI.exe
+C:\Users\valen\Desktop\Valem\FarmaciaTPI\PantallaFarmacia\bin\Debug\net6.0-windows\PantallaFarmacia.exe
+C:\Users\valen\Desktop\Valem\FarmaciaTPI\PantallaFarmacia\bin\Debug\net6.0-windows\PantallaFarmacia.deps.json
+C:\Users\valen\Desktop\Valem\FarmaciaTPI\PantallaFarmacia\bin\Debug\net6.0-windows\PantallaFarmacia.runtimeconfig.json
+C:\Users\valen\Desktop\Valem\FarmaciaTPI\PantallaFarmacia\bin\Debug\net6.0-windows\PantallaFarmacia.dll
+C:\Users\valen\Desktop\Valem\FarmaciaTPI\PantallaFarmacia\bin\Debug\net6.0-windows\PantallaFarmacia.pdb
+C:\Users\valen\Desktop\Valem\FarmaciaTPI\PantallaFarmacia\bin\Debug\net6.0-windows\Microsoft.CodeAnalysis.dll
+C:\Users\valen\Desktop\Valem\FarmaciaTPI\PantallaFarmacia\bin\Debug\net6.0-windows\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\valen\Desktop\Valem\FarmaciaTPI\PantallaFarmacia\bin\Debug\net6.0-windows\Microsoft.OpenApi.dll
+C:\Users\valen\Desktop\Valem\FarmaciaTPI\PantallaFarmacia\bin\Debug\net6.0-windows\Newtonsoft.Json.dll
+C:\Users\valen\Desktop\Valem\FarmaciaTPI\PantallaFarmacia\bin\Debug\net6.0-windows\Microsoft.ReportViewer.Common.dll
+C:\Users\valen\Desktop\Valem\FarmaciaTPI\PantallaFarmacia\bin\Debug\net6.0-windows\Microsoft.ReportViewer.DataVisualization.dll
+C:\Users\valen\Desktop\Valem\FarmaciaTPI\PantallaFarmacia\bin\Debug\net6.0-windows\Microsoft.ReportViewer.ProcessingObjectModel.dll
+C:\Users\valen\Desktop\Valem\FarmaciaTPI\PantallaFarmacia\bin\Debug\net6.0-windows\Microsoft.ReportViewer.WinForms.dll
+C:\Users\valen\Desktop\Valem\FarmaciaTPI\PantallaFarmacia\bin\Debug\net6.0-windows\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\valen\Desktop\Valem\FarmaciaTPI\PantallaFarmacia\bin\Debug\net6.0-windows\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\valen\Desktop\Valem\FarmaciaTPI\PantallaFarmacia\bin\Debug\net6.0-windows\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\valen\Desktop\Valem\FarmaciaTPI\PantallaFarmacia\bin\Debug\net6.0-windows\System.Data.SqlClient.dll
+C:\Users\valen\Desktop\Valem\FarmaciaTPI\PantallaFarmacia\bin\Debug\net6.0-windows\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\valen\Desktop\Valem\FarmaciaTPI\PantallaFarmacia\bin\Debug\net6.0-windows\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\valen\Desktop\Valem\FarmaciaTPI\PantallaFarmacia\bin\Debug\net6.0-windows\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\valen\Desktop\Valem\FarmaciaTPI\PantallaFarmacia\bin\Debug\net6.0-windows\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\valen\Desktop\Valem\FarmaciaTPI\PantallaFarmacia\bin\Debug\net6.0-windows\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\valen\Desktop\Valem\FarmaciaTPI\PantallaFarmacia\bin\Debug\net6.0-windows\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\valen\Desktop\Valem\FarmaciaTPI\PantallaFarmacia\bin\Debug\net6.0-windows\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\valen\Desktop\Valem\FarmaciaTPI\PantallaFarmacia\bin\Debug\net6.0-windows\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\valen\Desktop\Valem\FarmaciaTPI\PantallaFarmacia\bin\Debug\net6.0-windows\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\valen\Desktop\Valem\FarmaciaTPI\PantallaFarmacia\bin\Debug\net6.0-windows\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\valen\Desktop\Valem\FarmaciaTPI\PantallaFarmacia\bin\Debug\net6.0-windows\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\valen\Desktop\Valem\FarmaciaTPI\PantallaFarmacia\bin\Debug\net6.0-windows\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\valen\Desktop\Valem\FarmaciaTPI\PantallaFarmacia\bin\Debug\net6.0-windows\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\valen\Desktop\Valem\FarmaciaTPI\PantallaFarmacia\bin\Debug\net6.0-windows\cs\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Users\valen\Desktop\Valem\FarmaciaTPI\PantallaFarmacia\bin\Debug\net6.0-windows\de\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Users\valen\Desktop\Valem\FarmaciaTPI\PantallaFarmacia\bin\Debug\net6.0-windows\es\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Users\valen\Desktop\Valem\FarmaciaTPI\PantallaFarmacia\bin\Debug\net6.0-windows\fr\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Users\valen\Desktop\Valem\FarmaciaTPI\PantallaFarmacia\bin\Debug\net6.0-windows\it\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Users\valen\Desktop\Valem\FarmaciaTPI\PantallaFarmacia\bin\Debug\net6.0-windows\ja\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Users\valen\Desktop\Valem\FarmaciaTPI\PantallaFarmacia\bin\Debug\net6.0-windows\ko\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Users\valen\Desktop\Valem\FarmaciaTPI\PantallaFarmacia\bin\Debug\net6.0-windows\pl\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Users\valen\Desktop\Valem\FarmaciaTPI\PantallaFarmacia\bin\Debug\net6.0-windows\pt-BR\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Users\valen\Desktop\Valem\FarmaciaTPI\PantallaFarmacia\bin\Debug\net6.0-windows\ru\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Users\valen\Desktop\Valem\FarmaciaTPI\PantallaFarmacia\bin\Debug\net6.0-windows\tr\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Users\valen\Desktop\Valem\FarmaciaTPI\PantallaFarmacia\bin\Debug\net6.0-windows\zh-Hans\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Users\valen\Desktop\Valem\FarmaciaTPI\PantallaFarmacia\bin\Debug\net6.0-windows\zh-Hant\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Users\valen\Desktop\Valem\FarmaciaTPI\PantallaFarmacia\bin\Debug\net6.0-windows\runtimes\win-arm64\native\sni.dll
+C:\Users\valen\Desktop\Valem\FarmaciaTPI\PantallaFarmacia\bin\Debug\net6.0-windows\runtimes\win-x64\native\sni.dll
+C:\Users\valen\Desktop\Valem\FarmaciaTPI\PantallaFarmacia\bin\Debug\net6.0-windows\runtimes\win-x86\native\sni.dll
+C:\Users\valen\Desktop\Valem\FarmaciaTPI\PantallaFarmacia\bin\Debug\net6.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\valen\Desktop\Valem\FarmaciaTPI\PantallaFarmacia\bin\Debug\net6.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\valen\Desktop\Valem\FarmaciaTPI\PantallaFarmacia\bin\Debug\net6.0-windows\DataFarmacia.dll
+C:\Users\valen\Desktop\Valem\FarmaciaTPI\PantallaFarmacia\bin\Debug\net6.0-windows\FarmaciaAPI.dll
+C:\Users\valen\Desktop\Valem\FarmaciaTPI\PantallaFarmacia\bin\Debug\net6.0-windows\DataFarmacia.pdb
+C:\Users\valen\Desktop\Valem\FarmaciaTPI\PantallaFarmacia\bin\Debug\net6.0-windows\FarmaciaAPI.pdb
+C:\Users\valen\Desktop\Valem\FarmaciaTPI\PantallaFarmacia\obj\Debug\net6.0-windows\PantallaFarmacia.csproj.AssemblyReference.cache
+C:\Users\valen\Desktop\Valem\FarmaciaTPI\PantallaFarmacia\obj\Debug\net6.0-windows\FarmaciaPantallas.Form1.resources
+C:\Users\valen\Desktop\Valem\FarmaciaTPI\PantallaFarmacia\obj\Debug\net6.0-windows\PantallaFarmacia.FrmConsultarFactura.resources
+C:\Users\valen\Desktop\Valem\FarmaciaTPI\PantallaFarmacia\obj\Debug\net6.0-windows\PantallaFarmacia.FrmFactura.resources
+C:\Users\valen\Desktop\Valem\FarmaciaTPI\PantallaFarmacia\obj\Debug\net6.0-windows\PantallaFarmacia.FrmLogin.resources
+C:\Users\valen\Desktop\Valem\FarmaciaTPI\PantallaFarmacia\obj\Debug\net6.0-windows\PantallaFarmacia.FrmNosotros.resources
+C:\Users\valen\Desktop\Valem\FarmaciaTPI\PantallaFarmacia\obj\Debug\net6.0-windows\FarmaciaPantallas.FrmReporteFactura.resources
+C:\Users\valen\Desktop\Valem\FarmaciaTPI\PantallaFarmacia\obj\Debug\net6.0-windows\PantallaFarmacia.Frm_BM_Cliente.resources
+C:\Users\valen\Desktop\Valem\FarmaciaTPI\PantallaFarmacia\obj\Debug\net6.0-windows\FarmaciaPantallas.Frm_clientes.resources
+C:\Users\valen\Desktop\Valem\FarmaciaTPI\PantallaFarmacia\obj\Debug\net6.0-windows\PantallaFarmacia.Frm_Detalles.resources
+C:\Users\valen\Desktop\Valem\FarmaciaTPI\PantallaFarmacia\obj\Debug\net6.0-windows\FarmaciaPantallas.Frm_Nuevo_Cliente.resources
+C:\Users\valen\Desktop\Valem\FarmaciaTPI\PantallaFarmacia\obj\Debug\net6.0-windows\PantallaFarmacia.Properties.Resources.resources
+C:\Users\valen\Desktop\Valem\FarmaciaTPI\PantallaFarmacia\obj\Debug\net6.0-windows\PantallaFarmacia.csproj.GenerateResource.cache
+C:\Users\valen\Desktop\Valem\FarmaciaTPI\PantallaFarmacia\obj\Debug\net6.0-windows\PantallaFarmacia.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\valen\Desktop\Valem\FarmaciaTPI\PantallaFarmacia\obj\Debug\net6.0-windows\PantallaFarmacia.AssemblyInfoInputs.cache
+C:\Users\valen\Desktop\Valem\FarmaciaTPI\PantallaFarmacia\obj\Debug\net6.0-windows\PantallaFarmacia.AssemblyInfo.cs
+C:\Users\valen\Desktop\Valem\FarmaciaTPI\PantallaFarmacia\obj\Debug\net6.0-windows\PantallaFarmacia.csproj.CoreCompileInputs.cache
+C:\Users\valen\Desktop\Valem\FarmaciaTPI\PantallaFarmacia\obj\Debug\net6.0-windows\PantallaFarmacia.csproj.CopyComplete
+C:\Users\valen\Desktop\Valem\FarmaciaTPI\PantallaFarmacia\obj\Debug\net6.0-windows\PantallaFarmacia.dll
+C:\Users\valen\Desktop\Valem\FarmaciaTPI\PantallaFarmacia\obj\Debug\net6.0-windows\refint\PantallaFarmacia.dll
+C:\Users\valen\Desktop\Valem\FarmaciaTPI\PantallaFarmacia\obj\Debug\net6.0-windows\PantallaFarmacia.pdb
+C:\Users\valen\Desktop\Valem\FarmaciaTPI\PantallaFarmacia\obj\Debug\net6.0-windows\PantallaFarmacia.genruntimeconfig.cache
+C:\Users\valen\Desktop\Valem\FarmaciaTPI\PantallaFarmacia\obj\Debug\net6.0-windows\ref\PantallaFarmacia.dll

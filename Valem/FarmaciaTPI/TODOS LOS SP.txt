@@ -1,0 +1,260 @@
+USE [farmacia_TP]
+GO
+CREATE PROCEDURE [dbo].[Nuevo_descuento_bien2]
+@id_obra int, @localidad int, @suministro int, @nuevo_descuento int,
+@suministro_desc int OUTPUT
+AS
+BEGIN
+UPDATE descuentos
+SET descuento = @nuevo_descuento
+WHERE id_obra = @id_obra
+AND id_localidad = @localidad
+AND id_suministro = @suministro;
+SELECT @suministro_desc = precio - (precio * @nuevo_descuento) / 100
+FROM suministros
+WHERE id = @suministro;
+END;
+GO
+CREATE PROCEDURE [dbo].[SP_ACTUALIZAR_CLIENTE]
+    @id_cliente INT,
+    @DNI INT,
+    @nombre VARCHAR(100),
+    @apellido VARCHAR(100),
+    @id_tipo_doc INT
+AS
+BEGIN
+    UPDATE clientes
+    SET
+        DNI = @DNI,
+        nombre = @nombre,
+        apellido = @apellido,
+        id_tipo_documento = @id_tipo_doc
+    WHERE id = @id_cliente;
+END;
+GO
+CREATE PROCEDURE [dbo].[SP_BORRAR_CLIENTE]
+@id_cliente int = null
+AS
+BEGIN
+    -- Eliminar registros en la tabla "Contactos" relacionados con el cliente
+    DELETE DBO.Contactos
+    WHERE id_cliente = @id_cliente;
+
+    -- Eliminar el cliente
+    DELETE clientes
+    WHERE id = @id_cliente;
+END
+GO
+CREATE procedure [dbo].[SP_CANTIDAD_DESCUENTOS]
+@fecha_desde date,
+@fecha_hasta date,
+@descuento1 int = 10,
+@descuento2 int = 30,
+@facturas_descuentos int output
+as
+	select @facturas_descuentos = count(f.numero)
+	from descuentos d join detalles_facturas df on df.id_descuento = d.id
+	join facturas f on f.numero = df.id_factura
+	where f.fecha between @fecha_desde and @fecha_hasta
+	and d.descuento between @descuento1 and @descuento2
+GO
+CREATE PROCEDURE [dbo].[SP_CONSULTAR_DETALLES]
+    @NumeroFactura INT
+AS
+BEGIN
+    SELECT
+        df.id_factura,
+        df.cantidad,
+        df.precio,
+        s.descripcion,
+        s.codigo_barra
+    FROM 
+        detalles_facturas df
+    INNER JOIN 
+        suministros s ON df.id_suministro = s.id
+    WHERE
+        df.id_factura = @NumeroFactura;
+END
+GO
+create procedure [dbo].[SP_CONSULTAR_EMPLEADO]
+as
+begin 
+select legajo, nombre, apellido
+from empleados
+end;
+GO
+CREATE PROCEDURE [dbo].[SP_CONSULTAR_FACTURAS]
+AS
+BEGIN
+    SELECT
+        F.[numero],
+        F.[fecha],
+        C.[id] AS [IdCliente],
+        C.[Nombre] AS [NombreCliente],
+        C.[Apellido] AS [ApellidoCliente],
+        E.[legajo] AS [LegajoEmpleado],
+        E.[nombre] AS [NombreEmpleado],
+        E.[apellido] AS [ApellidoEmpleado],
+        S.[id] AS [IdSucursal],
+        S.[descripcion] AS [SucursalDescripcion],
+        F.[pagado]
+    FROM
+        [dbo].[facturas] F
+    INNER JOIN
+        [dbo].[clientes] C ON F.[id_cliente] = C.[id]
+    INNER JOIN
+        [dbo].[empleados] E ON F.[id_empleado] = E.[legajo]
+    INNER JOIN
+        [dbo].[sucursales] S ON F.[id_sucursal] = S.[id];
+END
+GO
+create procedure [dbo].[SP_CONSULTAR_LOCALIDAD]
+AS
+BEGIN
+SELECT id, nombre_localidad
+FROM localidades
+END;
+GO
+create procedure [dbo].[SP_CONSULTAR_OBRA]
+AS
+BEGIN
+SELECT id, nombre
+FROM obras_sociales
+END;
+GO
+create procedure [dbo].[SP_CONSULTAR_SUCURSAL]
+as
+begin 
+select id, descripcion
+from sucursales
+end;
+GO
+CREATE procedure [dbo].[SP_CONSULTAR_SUMINISTRO]
+AS
+BEGIN
+SELECT id, descripcion, precio, codigo_barra
+FROM suministros
+END;
+GO
+CREATE PROCEDURE [dbo].[SP_INSERTAR_DETALLE_FACTURA]
+    @id_factura INT,
+    @id_suministro INT,
+    @id_descuento INT,
+    @cantidad INT,
+    @precio FLOAT
+AS
+BEGIN
+    INSERT INTO dbo.detalles_facturas (id_factura, id_suministro, id_descuento, cantidad, precio)
+    VALUES (@id_factura, @id_suministro, @id_descuento, @cantidad, @precio);
+END;
+GO
+CREATE PROCEDURE [dbo].[SP_INSERTAR_FACTURA]
+    @fecha DATETIME,
+    @cliente INT,
+    @sucursal INT,
+    @empleado INT,
+    @pagado BIT,
+    @factura_nro INT OUTPUT
+AS
+BEGIN
+    INSERT INTO dbo.facturas (fecha, id_cliente, id_sucursal, id_empleado, pagado)
+    VALUES (@fecha, @cliente, @sucursal, @empleado, @pagado);
+
+    SET @factura_nro = SCOPE_IDENTITY();
+END;
+GO
+
+Create procedure [dbo].[SP_facturscion_suministro]
+@tipo int
+as
+begin
+Select ts.nombre 'Tipo de Suministro', Sum(df.precio*cantidad) 'Total facturacion', Year(fecha) 'Año'
+From Facturas f JOIN detalles_facturas df ON f.numero = df.id_factura
+     JOIN Suministros s ON s.id = df.id_suministro
+     JOIN tipos_suministros ts ON s.id_tipo = ts.id
+WHERE YEAR(fecha) = YEAR(GETDATE()) and s.id_tipo=@tipo
+Group by ts.nombre, YEAR(fecha)
+END
+
+GO
+create proc [dbo].[SP_REPORTE_FACTURA]
+@fecha_desde datetime,
+@fecha_hasta datetime
+as
+begin
+select Month(f.fecha) 'Mes',
+		YEAR(f.fecha) 'Año',
+		cl.Apellido + ' ' + cl.Nombre 'Cliente',
+		COUNT(f.numero) 'Cantidad de Facturas'
+		
+from facturas f, clientes cl
+where f.id_cliente = cl.id
+and fecha between @fecha_desde and @fecha_hasta
+group by cl.Apellido, cl.Nombre,Month(f.fecha), year(f.fecha)
+order by year(f.fecha),month(f.fecha)
+end
+GO
+CREATE procedure [dbo].[SP_TRAER_CLIENTES]
+as
+begin 
+select id, DNI, Nombre, Apellido, id_tipo_documento
+from clientes
+end;
+GO
+create procedure [dbo].[SP_TRAER_CLIENTES_FILTRADOS_prueba]
+@cliente_DNI int, @cliente_tipo int,
+@cliente_nombre varchar (100), @cliente_apellido varchar (100)
+as
+begin
+IF (@cliente_nombre = 'EMPTYY')
+        SET @cliente_nombre = '';
+    IF (@cliente_apellido = 'EMPTYY')
+        SET @cliente_apellido = '';
+
+		IF (@cliente_DNI = 12344321)
+		BEGIN
+		DECLARE @AUX VARCHAR (20)
+		SET @AUX = '';
+		select id ,id_tipo_documento, DNI, Apellido, Nombre
+from clientes
+where CAST(DNI AS VARCHAR) 
+LIKE '%' + @AUX + '%'
+and id_tipo_documento = @cliente_tipo
+and Nombre Like '%' + @cliente_nombre + '%'
+and Apellido Like '%' + @cliente_apellido + '%'
+end
+ELSE
+BEGIN
+select id ,id_tipo_documento, DNI, Apellido, Nombre
+from clientes
+where '%' + CAST(DNI AS VARCHAR (20)) + '%' like '%'+CAST(@cliente_DNI AS VARCHAR(20))+'%'
+and id_tipo_documento = @cliente_tipo
+and Nombre Like '%' + @cliente_nombre + '%'
+and Apellido Like '%' + @cliente_apellido + '%'
+end
+end
+return;
+GO
+create procedure [dbo].[SP_TRAER_DATOS]
+    as
+    begin
+    select Usuario, contraseña
+    from Datos
+    end
+GO
+create procedure [dbo].[SP_TRAER_TIPO_DOCS]
+as
+begin
+select *
+from tipos_documentos
+end
+
+GO
+
+Create procedure [dbo].[SP_traer_tipos]
+as
+begin
+select * from tipos_suministros
+end
+GO
+

@@ -1,0 +1,60 @@
+C:\Users\valen\Desktop\Trabajo Practico\TPs_1w3\FarmaciaTPI\DataFarmacia\obj\Debug\net6.0\DataFarmacia.csproj.AssemblyReference.cache
+C:\Users\valen\Desktop\Trabajo Practico\TPs_1w3\FarmaciaTPI\DataFarmacia\obj\Debug\net6.0\DataFarmacia.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\valen\Desktop\Trabajo Practico\TPs_1w3\FarmaciaTPI\DataFarmacia\obj\Debug\net6.0\DataFarmacia.AssemblyInfoInputs.cache
+C:\Users\valen\Desktop\Trabajo Practico\TPs_1w3\FarmaciaTPI\DataFarmacia\obj\Debug\net6.0\DataFarmacia.AssemblyInfo.cs
+C:\Users\valen\Desktop\Trabajo Practico\TPs_1w3\FarmaciaTPI\DataFarmacia\obj\Debug\net6.0\DataFarmacia.csproj.CoreCompileInputs.cache
+C:\Users\valen\Desktop\Trabajo Practico\TPs_1w3\FarmaciaTPI\DataFarmacia\bin\Debug\net6.0\DataFarmacia.deps.json
+C:\Users\valen\Desktop\Trabajo Practico\TPs_1w3\FarmaciaTPI\DataFarmacia\bin\Debug\net6.0\DataFarmacia.dll
+C:\Users\valen\Desktop\Trabajo Practico\TPs_1w3\FarmaciaTPI\DataFarmacia\bin\Debug\net6.0\DataFarmacia.pdb
+C:\Users\valen\Desktop\Trabajo Practico\TPs_1w3\FarmaciaTPI\DataFarmacia\obj\Debug\net6.0\DataFarmacia.dll
+C:\Users\valen\Desktop\Trabajo Practico\TPs_1w3\FarmaciaTPI\DataFarmacia\obj\Debug\net6.0\refint\DataFarmacia.dll
+C:\Users\valen\Desktop\Trabajo Practico\TPs_1w3\FarmaciaTPI\DataFarmacia\obj\Debug\net6.0\DataFarmacia.pdb
+C:\Users\valen\Desktop\Trabajo Practico\TPs_1w3\FarmaciaTPI\DataFarmacia\obj\Debug\net6.0\ref\DataFarmacia.dll
+C:\Users\valen\Desktop\Tecnicatura en Prog_2023\Programación II\Tpi\FarmaciaTPI\DataFarmacia\bin\Debug\net6.0\DataFarmacia.deps.json
+C:\Users\valen\Desktop\Tecnicatura en Prog_2023\Programación II\Tpi\FarmaciaTPI\DataFarmacia\bin\Debug\net6.0\DataFarmacia.dll
+C:\Users\valen\Desktop\Tecnicatura en Prog_2023\Programación II\Tpi\FarmaciaTPI\DataFarmacia\bin\Debug\net6.0\DataFarmacia.pdb
+C:\Users\valen\Desktop\Tecnicatura en Prog_2023\Programación II\Tpi\FarmaciaTPI\DataFarmacia\obj\Debug\net6.0\DataFarmacia.csproj.AssemblyReference.cache
+C:\Users\valen\Desktop\Tecnicatura en Prog_2023\Programación II\Tpi\FarmaciaTPI\DataFarmacia\obj\Debug\net6.0\DataFarmacia.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\valen\Desktop\Tecnicatura en Prog_2023\Programación II\Tpi\FarmaciaTPI\DataFarmacia\obj\Debug\net6.0\DataFarmacia.AssemblyInfoInputs.cache
+C:\Users\valen\Desktop\Tecnicatura en Prog_2023\Programación II\Tpi\FarmaciaTPI\DataFarmacia\obj\Debug\net6.0\DataFarmacia.AssemblyInfo.cs
+C:\Users\valen\Desktop\Tecnicatura en Prog_2023\Programación II\Tpi\FarmaciaTPI\DataFarmacia\obj\Debug\net6.0\DataFarmacia.csproj.CoreCompileInputs.cache
+C:\Users\valen\Desktop\Tecnicatura en Prog_2023\Programación II\Tpi\FarmaciaTPI\DataFarmacia\obj\Debug\net6.0\DataFarmacia.dll
+C:\Users\valen\Desktop\Tecnicatura en Prog_2023\Programación II\Tpi\FarmaciaTPI\DataFarmacia\obj\Debug\net6.0\refint\DataFarmacia.dll
+C:\Users\valen\Desktop\Tecnicatura en Prog_2023\Programación II\Tpi\FarmaciaTPI\DataFarmacia\obj\Debug\net6.0\DataFarmacia.pdb
+C:\Users\valen\Desktop\Tecnicatura en Prog_2023\Programación II\Tpi\FarmaciaTPI\DataFarmacia\obj\Debug\net6.0\ref\DataFarmacia.dll
+C:\Users\valen\Desktop\FarmaciaTPI\DataFarmacia\bin\Debug\net6.0\DataFarmacia.deps.json
+C:\Users\valen\Desktop\FarmaciaTPI\DataFarmacia\bin\Debug\net6.0\DataFarmacia.dll
+C:\Users\valen\Desktop\FarmaciaTPI\DataFarmacia\bin\Debug\net6.0\DataFarmacia.pdb
+C:\Users\valen\Desktop\FarmaciaTPI\DataFarmacia\obj\Debug\net6.0\DataFarmacia.csproj.AssemblyReference.cache
+C:\Users\valen\Desktop\FarmaciaTPI\DataFarmacia\obj\Debug\net6.0\DataFarmacia.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\valen\Desktop\FarmaciaTPI\DataFarmacia\obj\Debug\net6.0\DataFarmacia.AssemblyInfoInputs.cache
+C:\Users\valen\Desktop\FarmaciaTPI\DataFarmacia\obj\Debug\net6.0\DataFarmacia.AssemblyInfo.cs
+C:\Users\valen\Desktop\FarmaciaTPI\DataFarmacia\obj\Debug\net6.0\DataFarmacia.csproj.CoreCompileInputs.cache
+C:\Users\valen\Desktop\FarmaciaTPI\DataFarmacia\obj\Debug\net6.0\DataFarmacia.dll
+C:\Users\valen\Desktop\FarmaciaTPI\DataFarmacia\obj\Debug\net6.0\refint\DataFarmacia.dll
+C:\Users\valen\Desktop\FarmaciaTPI\DataFarmacia\obj\Debug\net6.0\DataFarmacia.pdb
+C:\Users\valen\Desktop\FarmaciaTPI\DataFarmacia\obj\Debug\net6.0\ref\DataFarmacia.dll
+C:\Users\gonza\Desktop\Valem\FarmaciaTPI\DataFarmacia\bin\Debug\net6.0\DataFarmacia.deps.json
+C:\Users\gonza\Desktop\Valem\FarmaciaTPI\DataFarmacia\bin\Debug\net6.0\DataFarmacia.dll
+C:\Users\gonza\Desktop\Valem\FarmaciaTPI\DataFarmacia\bin\Debug\net6.0\DataFarmacia.pdb
+C:\Users\gonza\Desktop\Valem\FarmaciaTPI\DataFarmacia\obj\Debug\net6.0\DataFarmacia.csproj.AssemblyReference.cache
+C:\Users\gonza\Desktop\Valem\FarmaciaTPI\DataFarmacia\obj\Debug\net6.0\DataFarmacia.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gonza\Desktop\Valem\FarmaciaTPI\DataFarmacia\obj\Debug\net6.0\DataFarmacia.AssemblyInfoInputs.cache
+C:\Users\gonza\Desktop\Valem\FarmaciaTPI\DataFarmacia\obj\Debug\net6.0\DataFarmacia.AssemblyInfo.cs
+C:\Users\gonza\Desktop\Valem\FarmaciaTPI\DataFarmacia\obj\Debug\net6.0\DataFarmacia.csproj.CoreCompileInputs.cache
+C:\Users\gonza\Desktop\Valem\FarmaciaTPI\DataFarmacia\obj\Debug\net6.0\DataFarmacia.dll
+C:\Users\gonza\Desktop\Valem\FarmaciaTPI\DataFarmacia\obj\Debug\net6.0\refint\DataFarmacia.dll
+C:\Users\gonza\Desktop\Valem\FarmaciaTPI\DataFarmacia\obj\Debug\net6.0\DataFarmacia.pdb
+C:\Users\gonza\Desktop\Valem\FarmaciaTPI\DataFarmacia\obj\Debug\net6.0\ref\DataFarmacia.dll
+C:\Users\valen\Desktop\Valem\FarmaciaTPI\DataFarmacia\bin\Debug\net6.0\DataFarmacia.deps.json
+C:\Users\valen\Desktop\Valem\FarmaciaTPI\DataFarmacia\bin\Debug\net6.0\DataFarmacia.dll
+C:\Users\valen\Desktop\Valem\FarmaciaTPI\DataFarmacia\bin\Debug\net6.0\DataFarmacia.pdb
+C:\Users\valen\Desktop\Valem\FarmaciaTPI\DataFarmacia\obj\Debug\net6.0\DataFarmacia.csproj.AssemblyReference.cache
+C:\Users\valen\Desktop\Valem\FarmaciaTPI\DataFarmacia\obj\Debug\net6.0\DataFarmacia.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\valen\Desktop\Valem\FarmaciaTPI\DataFarmacia\obj\Debug\net6.0\DataFarmacia.AssemblyInfoInputs.cache
+C:\Users\valen\Desktop\Valem\FarmaciaTPI\DataFarmacia\obj\Debug\net6.0\DataFarmacia.AssemblyInfo.cs
+C:\Users\valen\Desktop\Valem\FarmaciaTPI\DataFarmacia\obj\Debug\net6.0\DataFarmacia.csproj.CoreCompileInputs.cache
+C:\Users\valen\Desktop\Valem\FarmaciaTPI\DataFarmacia\obj\Debug\net6.0\DataFarmacia.dll
+C:\Users\valen\Desktop\Valem\FarmaciaTPI\DataFarmacia\obj\Debug\net6.0\refint\DataFarmacia.dll
+C:\Users\valen\Desktop\Valem\FarmaciaTPI\DataFarmacia\obj\Debug\net6.0\DataFarmacia.pdb
+C:\Users\valen\Desktop\Valem\FarmaciaTPI\DataFarmacia\obj\Debug\net6.0\ref\DataFarmacia.dll
